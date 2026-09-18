@@ -1,0 +1,53 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# AI coding assistant config (local only, never shipped)
+.claude/
+CLAUDE.md
+
+# typescript
+*.tsbuildinfo
+
+# generated native folders
+/ios
+/android
+
+# scripture-fill build caches (re-fetchable; not source of truth)
+scripts/_besant_cache/
+scripts/_gita_assembled.json
+scripts/_gita_verse_tmp.json
+scripts/_itihasa_ramayana.json
+scripts/_bombay_ram01.txt
+scripts/_gretil_ram.html

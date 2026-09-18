@@ -1,0 +1,5077 @@
+{
+  "run": "2026-06-11T12:35:37.757Z",
+  "threshold": 0.5,
+  "kandas": {
+    "1": {
+      "name": "Bala Kanda",
+      "ce_verses": 1941,
+      "itihasa_pool": 1785,
+      "shipped": 1553,
+      "dropped_positional": 1,
+      "match_rate": 0.8,
+      "sargas_in_ce": 76,
+      "sargas_with_content": 76
+    },
+    "2": {
+      "name": "Ayodhya Kanda",
+      "ce_verses": 3160,
+      "itihasa_pool": 3641,
+      "shipped": 2722,
+      "dropped_positional": 0,
+      "match_rate": 0.861,
+      "sargas_in_ce": 111,
+      "sargas_with_content": 111
+    },
+    "3": {
+      "name": "Aranya Kanda",
+      "ce_verses": 2060,
+      "itihasa_pool": 1968,
+      "shipped": 1639,
+      "dropped_positional": 0,
+      "match_rate": 0.796,
+      "sargas_in_ce": 71,
+      "sargas_with_content": 71
+    },
+    "4": {
+      "name": "Kishkindha Kanda",
+      "ce_verses": 1987,
+      "itihasa_pool": 2044,
+      "shipped": 1598,
+      "dropped_positional": 3,
+      "match_rate": 0.804,
+      "sargas_in_ce": 66,
+      "sargas_with_content": 66
+    },
+    "5": {
+      "name": "Sundara Kanda",
+      "ce_verses": 2487,
+      "itihasa_pool": 2302,
+      "shipped": 1990,
+      "dropped_positional": 5,
+      "match_rate": 0.8,
+      "sargas_in_ce": 66,
+      "sargas_with_content": 66
+    },
+    "6": {
+      "name": "Yuddha Kanda",
+      "ce_verses": 4436,
+      "itihasa_pool": 4823,
+      "shipped": 3677,
+      "dropped_positional": 2,
+      "match_rate": 0.829,
+      "sargas_in_ce": 116,
+      "sargas_with_content": 115
+    },
+    "7": {
+      "name": "Uttara Kanda",
+      "ce_verses": 2690,
+      "itihasa_pool": 2808,
+      "shipped": 2008,
+      "dropped_positional": 0,
+      "match_rate": 0.746,
+      "sargas_in_ce": 100,
+      "sargas_with_content": 100
+    }
+  },
+  "flagged": [
+    {
+      "ref": "1.1.19",
+      "dice": 0.58,
+      "itihasa": "vol-i/ch1#19"
+    },
+    {
+      "ref": "1.1.24",
+      "dice": 0.546,
+      "itihasa": "vol-i/ch1#24"
+    },
+    {
+      "ref": "1.1.30",
+      "dice": 0.533,
+      "itihasa": "vol-i/ch1#30"
+    },
+    {
+      "ref": "1.1.37",
+      "dice": 0.57,
+      "itihasa": "vol-i/ch1#38"
+    },
+    {
+      "ref": "1.1.47",
+      "dice": 0.536,
+      "itihasa": "vol-i/ch1#45"
+    },
+    {
+      "ref": "1.1.51",
+      "dice": 0.515,
+      "itihasa": "vol-i/ch1#50"
+    },
+    {
+      "ref": "1.1.66",
+      "dice": 0.5,
+      "itihasa": "vol-i/ch1#66"
+    },
+    {
+      "ref": "1.1.69",
+      "dice": 0.619,
+      "itihasa": "vol-i/ch1#70"
+    },
+    {
+      "ref": "1.1.73",
+      "dice": 0.529,
+      "itihasa": "vol-i/ch1#76"
+    },
+    {
+      "ref": "1.1.75",
+      "dice": 0.566,
+      "itihasa": "vol-i/ch1#77"
+    },
+    {
+      "ref": "1.3.11",
+      "dice": 0.592,
+      "itihasa": "vol-i/ch3#14"
+    },
+    {
+      "ref": "1.3.14",
+      "dice": 0.571,
+      "itihasa": "vol-i/ch3#17"
+    },
+    {
+      "ref": "1.4.5",
+      "dice": 0.509,
+      "itihasa": "vol-i/ch4#5"
+    },
+    {
+      "ref": "1.4.15",
+      "dice": 0.535,
+      "itihasa": "vol-i/ch4#9"
+    },
+    {
+      "ref": "1.5.1",
+      "dice": 0.523,
+      "itihasa": "vol-i/ch5#1"
+    },
+    {
+      "ref": "1.5.21",
+      "dice": 0.509,
+      "itihasa": "vol-i/ch5#18"
+    },
+    {
+      "ref": "1.6.16",
+      "dice": 0.614,
+      "itihasa": "vol-i/ch6#17"
+    },
+    {
+      "ref": "1.6.22",
+      "dice": 0.502,
+      "itihasa": "vol-i/ch6#24"
+    },
+    {
+      "ref": "1.7.2",
+      "dice": 0.552,
+      "itihasa": "vol-i/ch7#2"
+    },
+    {
+      "ref": "1.7.16",
+      "dice": 0.5,
+      "itihasa": "vol-i/ch7#18"
+    },
+    {
+      "ref": "1.8.12",
+      "dice": 0.5,
+      "itihasa": "vol-i/ch9#5"
+    },
+    {
+      "ref": "1.8.15",
+      "dice": 0.584,
+      "itihasa": "vol-i/ch9#7"
+    },
+    {
+      "ref": "1.12.1",
+      "dice": 0.579,
+      "itihasa": "vol-i/ch13#1"
+    },
+    {
+      "ref": "1.12.2",
+      "dice": 0.566,
+      "itihasa": "vol-i/ch13#2"
+    },
+    {
+      "ref": "1.12.3",
+      "dice": 0.564,
+      "itihasa": "vol-i/ch13#4"
+    },
+    {
+      "ref": "1.12.6",
+      "dice": 0.513,
+      "itihasa": "vol-i/ch13#6"
+    },
+    {
+      "ref": "1.12.8",
+      "dice": 0.595,
+      "itihasa": "vol-i/ch13#7"
+    },
+    {
+      "ref": "1.12.12",
+      "dice": 0.583,
+      "itihasa": "vol-i/ch13#10"
+    },
+    {
+      "ref": "1.12.17",
+      "dice": 0.533,
+      "itihasa": "vol-i/ch13#13"
+    },
+    {
+      "ref": "1.13.20",
+      "dice": 0.518,
+      "itihasa": "vol-i/ch14#21"
+    },
+    {
+      "ref": "1.13.34",
+      "dice": 0.507,
+      "itihasa": "vol-i/ch14#31"
+    },
+    {
+      "ref": "1.13.38",
+      "dice": 0.595,
+      "itihasa": "vol-i/ch14#34"
+    },
+    {
+      "ref": "1.14.16",
+      "dice": 0.552,
+      "itihasa": "vol-i/ch15#15"
+    },
+    {
+      "ref": "1.15.6",
+      "dice": 0.558,
+      "itihasa": "vol-i/ch16#5"
+    },
+    {
+      "ref": "1.15.26",
+      "dice": 0.61,
+      "itihasa": "vol-i/ch16#20"
+    },
+    {
+      "ref": "1.16.3",
+      "dice": 0.509,
+      "itihasa": "vol-i/ch17#2"
+    },
+    {
+      "ref": "1.16.9",
+      "dice": 0.573,
+      "itihasa": "vol-i/ch17#14"
+    },
+    {
+      "ref": "1.16.14",
+      "dice": 0.565,
+      "itihasa": "vol-i/ch17#19"
+    },
+    {
+      "ref": "1.16.15",
+      "dice": 0.605,
+      "itihasa": "vol-i/ch17#20"
+    },
+    {
+      "ref": "1.16.16",
+      "dice": 0.582,
+      "itihasa": "vol-i/ch17#21"
+    },
+    {
+      "ref": "1.17.5",
+      "dice": 0.613,
+      "itihasa": "vol-i/ch18#6"
+    },
+    {
+      "ref": "1.17.17",
+      "dice": 0.615,
+      "itihasa": "vol-i/ch18#17"
+    },
+    {
+      "ref": "1.17.37",
+      "dice": 0.584,
+      "itihasa": "vol-i/ch18#36"
+    },
+    {
+      "ref": "1.18.14",
+      "dice": 0.5,
+      "itihasa": "vol-i/ch19#8"
+    },
+    {
+      "ref": "1.19.8",
+      "dice": 0.605,
+      "itihasa": "vol-i/ch20#8"
+    },
+    {
+      "ref": "1.19.12",
+      "dice": 0.514,
+      "itihasa": "vol-i/ch20#11"
+    },
+    {
+      "ref": "1.19.17",
+      "dice": 0.507,
+      "itihasa": "vol-i/ch20#12"
+    },
+    {
+      "ref": "1.19.20",
+      "dice": 0.525,
+      "itihasa": "vol-i/ch20#15"
+    },
+    {
+      "ref": "1.19.21",
+      "dice": 0.538,
+      "itihasa": "vol-i/ch20#16"
+    },
+    {
+      "ref": "1.19.22",
+      "dice": 0.574,
+      "itihasa": "vol-i/ch20#17"
+    },
+    {
+      "ref": "1.21.8",
+      "dice": 0.534,
+      "itihasa": "vol-i/ch22#6"
+    },
+    {
+      "ref": "1.21.11",
+      "dice": 0.608,
+      "itihasa": "vol-i/ch22#8"
+    },
+    {
+      "ref": "1.22.19",
+      "dice": 0.553,
+      "itihasa": "vol-i/ch23#18"
+    },
+    {
+      "ref": "1.23.13",
+      "dice": 0.524,
+      "itihasa": "vol-i/ch24#13"
+    },
+    {
+      "ref": "1.23.29",
+      "dice": 0.505,
+      "itihasa": "vol-i/ch24#26"
+    },
+    {
+      "ref": "1.26.6",
+      "dice": 0.594,
+      "itihasa": "vol-i/ch27#5"
+    },
+    {
+      "ref": "1.26.14",
+      "dice": 0.596,
+      "itihasa": "vol-i/ch27#9"
+    },
+    {
+      "ref": "1.26.19",
+      "dice": 0.512,
+      "itihasa": "vol-i/ch27#11"
+    },
+    {
+      "ref": "1.26.22",
+      "dice": 0.597,
+      "itihasa": "vol-i/ch27#15"
+    },
+    {
+      "ref": "1.27.13",
+      "dice": 0.522,
+      "itihasa": "vol-i/ch28#7"
+    },
+    {
+      "ref": "1.29.19",
+      "dice": 0.547,
+      "itihasa": "vol-i/ch30#17"
+    },
+    {
+      "ref": "1.30.15",
+      "dice": 0.593,
+      "itihasa": "vol-i/ch31#16"
+    },
+    {
+      "ref": "1.31.4",
+      "dice": 0.505,
+      "itihasa": "vol-i/ch32#3"
+    },
+    {
+      "ref": "1.31.20",
+      "dice": 0.609,
+      "itihasa": "vol-i/ch32#15"
+    },
+    {
+      "ref": "1.32.9",
+      "dice": 0.591,
+      "itihasa": "vol-i/ch33#8"
+    },
+    {
+      "ref": "1.34.8",
+      "dice": 0.539,
+      "itihasa": "vol-i/ch35#8"
+    },
+    {
+      "ref": "1.34.17",
+      "dice": 0.516,
+      "itihasa": "vol-i/ch35#15"
+    },
+    {
+      "ref": "1.34.21",
+      "dice": 0.566,
+      "itihasa": "vol-i/ch35#19"
+    },
+    {
+      "ref": "1.35.3",
+      "dice": 0.579,
+      "itihasa": "vol-i/ch36#3"
+    },
+    {
+      "ref": "1.35.4",
+      "dice": 0.596,
+      "itihasa": "vol-i/ch36#4"
+    },
+    {
+      "ref": "1.35.6",
+      "dice": 0.547,
+      "itihasa": "vol-i/ch36#5"
+    },
+    {
+      "ref": "1.35.7",
+      "dice": 0.535,
+      "itihasa": "vol-i/ch36#6"
+    },
+    {
+      "ref": "1.35.8",
+      "dice": 0.532,
+      "itihasa": "vol-i/ch36#7"
+    },
+    {
+      "ref": "1.36.31",
+      "dice": 0.604,
+      "itihasa": "vol-i/ch37#30"
+    },
+    {
+      "ref": "1.38.3",
+      "dice": 0.613,
+      "itihasa": "vol-i/ch39#3"
+    },
+    {
+      "ref": "1.38.4",
+      "dice": 0.59,
+      "itihasa": "vol-i/ch39#4"
+    },
+    {
+      "ref": "1.38.8",
+      "dice": 0.502,
+      "itihasa": "vol-i/ch39#7"
+    },
+    {
+      "ref": "1.39.24",
+      "dice": 0.5,
+      "itihasa": "vol-i/ch40#22"
+    },
+    {
+      "ref": "1.39.25",
+      "dice": 0.589,
+      "itihasa": "vol-i/ch40#24"
+    },
+    {
+      "ref": "1.40.19",
+      "dice": 0.505,
+      "itihasa": "vol-i/ch41#19"
+    },
+    {
+      "ref": "1.41.11",
+      "dice": 0.597,
+      "itihasa": "vol-i/ch42#11"
+    },
+    {
+      "ref": "1.42.5",
+      "dice": 0.528,
+      "itihasa": "vol-i/ch43#7"
+    },
+    {
+      "ref": "1.42.6",
+      "dice": 0.569,
+      "itihasa": "vol-i/ch43#8"
+    },
+    {
+      "ref": "1.47.4",
+      "dice": 0.504,
+      "itihasa": "vol-i/ch48#2"
+    },
+    {
+      "ref": "1.48.14",
+      "dice": 0.506,
+      "itihasa": "vol-i/ch49#13"
+    },
+    {
+      "ref": "1.49.7",
+      "dice": 0.531,
+      "itihasa": "vol-i/ch50#5"
+    },
+    {
+      "ref": "1.49.12",
+      "dice": 0.589,
+      "itihasa": "vol-i/ch50#9"
+    },
+    {
+      "ref": "1.52.12",
+      "dice": 0.552,
+      "itihasa": "vol-i/ch53#10"
+    },
+    {
+      "ref": "1.52.18",
+      "dice": 0.542,
+      "itihasa": "vol-i/ch53#15"
+    },
+    {
+      "ref": "1.54.3",
+      "dice": 0.598,
+      "itihasa": "vol-i/ch55#2"
+    },
+    {
+      "ref": "1.54.18",
+      "dice": 0.592,
+      "itihasa": "vol-i/ch55#16"
+    },
+    {
+      "ref": "1.56.13",
+      "dice": 0.573,
+      "itihasa": "vol-i/ch57#9"
+    },
+    {
+      "ref": "1.57.19",
+      "dice": 0.606,
+      "itihasa": "vol-i/ch58#14"
+    },
+    {
+      "ref": "1.58.3",
+      "dice": 0.523,
+      "itihasa": "vol-i/ch59#3"
+    },
+    {
+      "ref": "1.58.20",
+      "dice": 0.509,
+      "itihasa": "vol-i/ch59#14"
+    },
+    {
+      "ref": "1.59.7",
+      "dice": 0.608,
+      "itihasa": "vol-i/ch60#5"
+    },
+    {
+      "ref": "1.59.12",
+      "dice": 0.584,
+      "itihasa": "vol-i/ch60#8"
+    },
+    {
+      "ref": "1.59.13",
+      "dice": 0.579,
+      "itihasa": "vol-i/ch60#9"
+    },
+    {
+      "ref": "1.62.5",
+      "dice": 0.502,
+      "itihasa": "vol-i/ch63#4"
+    },
+    {
+      "ref": "1.62.7",
+      "dice": 0.582,
+      "itihasa": "vol-i/ch63#5"
+    },
+    {
+      "ref": "1.62.19",
+      "dice": 0.586,
+      "itihasa": "vol-i/ch63#15"
+    },
+    {
+      "ref": "1.65.20",
+      "dice": 0.525,
+      "itihasa": "vol-i/ch66#14"
+    },
+    {
+      "ref": "1.67.9",
+      "dice": 0.606,
+      "itihasa": "vol-i/ch68#6"
+    },
+    {
+      "ref": "1.69.6",
+      "dice": 0.6,
+      "itihasa": "vol-i/ch70#7"
+    },
+    {
+      "ref": "1.69.25",
+      "dice": 0.609,
+      "itihasa": "vol-i/ch70#30"
+    },
+    {
+      "ref": "1.69.26",
+      "dice": 0.558,
+      "itihasa": "vol-i/ch70#31"
+    },
+    {
+      "ref": "1.69.27",
+      "dice": 0.619,
+      "itihasa": "vol-i/ch70#32"
+    },
+    {
+      "ref": "1.69.28",
+      "dice": 0.552,
+      "itihasa": "vol-i/ch70#33"
+    },
+    {
+      "ref": "1.69.29",
+      "dice": 0.598,
+      "itihasa": "vol-i/ch70#34"
+    },
+    {
+      "ref": "1.70.13",
+      "dice": 0.616,
+      "itihasa": "vol-i/ch71#12"
+    },
+    {
+      "ref": "1.72.18",
+      "dice": 0.574,
+      "itihasa": "vol-i/ch73#16"
+    },
+    {
+      "ref": "1.72.23",
+      "dice": 0.577,
+      "itihasa": "vol-i/ch73#19"
+    },
+    {
+      "ref": "1.73.4",
+      "dice": 0.5,
+      "itihasa": "vol-i/ch74#3"
+    },
+    {
+      "ref": "1.73.7",
+      "dice": 0.585,
+      "itihasa": "vol-i/ch74#4"
+    },
+    {
+      "ref": "1.73.14",
+      "dice": 0.601,
+      "itihasa": "vol-i/ch74#8"
+    },
+    {
+      "ref": "1.73.17",
+      "dice": 0.532,
+      "itihasa": "vol-i/ch74#10"
+    },
+    {
+      "ref": "1.74.7",
+      "dice": 0.5,
+      "itihasa": "vol-i/ch75#4"
+    },
+    {
+      "ref": "1.74.13",
+      "dice": 0.59,
+      "itihasa": "vol-i/ch75#10"
+    },
+    {
+      "ref": "1.74.14",
+      "dice": 0.579,
+      "itihasa": "vol-i/ch75#11"
+    },
+    {
+      "ref": "1.75.8",
+      "dice": 0.611,
+      "itihasa": "vol-i/ch76#7"
+    },
+    {
+      "ref": "1.76.4",
+      "dice": 0.606,
+      "itihasa": "vol-i/ch77#4"
+    },
+    {
+      "ref": "1.76.11",
+      "dice": 0.5,
+      "itihasa": "vol-i/ch77#7"
+    },
+    {
+      "ref": "2.1.21",
+      "dice": 0.55,
+      "itihasa": "vol-i/ch1#26"
+    },
+    {
+      "ref": "2.1.22",
+      "dice": 0.576,
+      "itihasa": "vol-i/ch1#27"
+    },
+    {
+      "ref": "2.1.23",
+      "dice": 0.574,
+      "itihasa": "vol-i/ch1#28"
+    },
+    {
+      "ref": "2.1.24",
+      "dice": 0.544,
+      "itihasa": "vol-i/ch1#29"
+    },
+    {
+      "ref": "2.1.34",
+      "dice": 0.58,
+      "itihasa": "vol-i/ch1#39"
+    },
+    {
+      "ref": "2.2.20",
+      "dice": 0.505,
+      "itihasa": "vol-i/ch2#25"
+    },
+    {
+      "ref": "2.2.22",
+      "dice": 0.581,
+      "itihasa": "vol-i/ch2#28"
+    },
+    {
+      "ref": "2.2.23",
+      "dice": 0.595,
+      "itihasa": "vol-i/ch2#29"
+    },
+    {
+      "ref": "2.2.28",
+      "dice": 0.545,
+      "itihasa": "vol-i/ch2#33"
+    },
+    {
+      "ref": "2.3.28",
+      "dice": 0.527,
+      "itihasa": "vol-i/ch3#31"
+    },
+    {
+      "ref": "2.4.1",
+      "dice": 0.618,
+      "itihasa": "vol-i/ch4#1"
+    },
+    {
+      "ref": "2.4.16",
+      "dice": 0.507,
+      "itihasa": "vol-i/ch4#13"
+    },
+    {
+      "ref": "2.4.35",
+      "dice": 0.527,
+      "itihasa": "vol-i/ch4#28"
+    },
+    {
+      "ref": "2.6.21",
+      "dice": 0.52,
+      "itihasa": "vol-i/ch6#15"
+    },
+    {
+      "ref": "2.7.4",
+      "dice": 0.598,
+      "itihasa": "vol-i/ch7#5"
+    },
+    {
+      "ref": "2.7.27",
+      "dice": 0.563,
+      "itihasa": "vol-i/ch7#24"
+    },
+    {
+      "ref": "2.9.12",
+      "dice": 0.55,
+      "itihasa": "vol-i/ch9#14"
+    },
+    {
+      "ref": "2.9.14",
+      "dice": 0.608,
+      "itihasa": "vol-i/ch9#15"
+    },
+    {
+      "ref": "2.9.29",
+      "dice": 0.525,
+      "itihasa": "vol-i/ch9#34"
+    },
+    {
+      "ref": "2.9.33",
+      "dice": 0.525,
+      "itihasa": "vol-i/ch9#37"
+    },
+    {
+      "ref": "2.9.34",
+      "dice": 0.6,
+      "itihasa": "vol-i/ch9#38"
+    },
+    {
+      "ref": "2.10.1",
+      "dice": 0.61,
+      "itihasa": "vol-i/ch10#8"
+    },
+    {
+      "ref": "2.10.16",
+      "dice": 0.513,
+      "itihasa": "vol-i/ch11#4"
+    },
+    {
+      "ref": "2.10.29",
+      "dice": 0.602,
+      "itihasa": "vol-i/ch11#24"
+    },
+    {
+      "ref": "2.10.30",
+      "dice": 0.505,
+      "itihasa": "vol-i/ch12#1"
+    },
+    {
+      "ref": "2.11.6",
+      "dice": 0.524,
+      "itihasa": "vol-i/ch13#6"
+    },
+    {
+      "ref": "2.12.21",
+      "dice": 0.608,
+      "itihasa": "vol-i/ch14#47"
+    },
+    {
+      "ref": "2.12.23",
+      "dice": 0.584,
+      "itihasa": "vol-i/ch14#48"
+    },
+    {
+      "ref": "2.13.25",
+      "dice": 0.58,
+      "itihasa": "vol-i/ch15#13"
+    },
+    {
+      "ref": "2.13.27",
+      "dice": 0.53,
+      "itihasa": "vol-i/ch15#17"
+    },
+    {
+      "ref": "2.14.4",
+      "dice": 0.587,
+      "itihasa": "vol-i/ch16#3"
+    },
+    {
+      "ref": "2.14.14",
+      "dice": 0.615,
+      "itihasa": "vol-i/ch16#13"
+    },
+    {
+      "ref": "2.14.19",
+      "dice": 0.542,
+      "itihasa": "vol-i/ch16#24"
+    },
+    {
+      "ref": "2.14.20",
+      "dice": 0.598,
+      "itihasa": "vol-i/ch16#25"
+    },
+    {
+      "ref": "2.15.1",
+      "dice": 0.6,
+      "itihasa": "vol-i/ch17#1"
+    },
+    {
+      "ref": "2.17.12",
+      "dice": 0.505,
+      "itihasa": "vol-i/ch20#22"
+    },
+    {
+      "ref": "2.18.30",
+      "dice": 0.556,
+      "itihasa": "vol-i/ch21#34"
+    },
+    {
+      "ref": "2.20.27",
+      "dice": 0.514,
+      "itihasa": "vol-i/ch23#21"
+    },
+    {
+      "ref": "2.21.5",
+      "dice": 0.509,
+      "itihasa": "vol-i/ch24#6"
+    },
+    {
+      "ref": "2.21.21",
+      "dice": 0.559,
+      "itihasa": "vol-i/ch24#22"
+    },
+    {
+      "ref": "2.21.22",
+      "dice": 0.545,
+      "itihasa": "vol-i/ch24#23"
+    },
+    {
+      "ref": "2.22.12",
+      "dice": 0.502,
+      "itihasa": "vol-i/ch25#18"
+    },
+    {
+      "ref": "2.25.1",
+      "dice": 0.549,
+      "itihasa": "vol-i/ch28#2"
+    },
+    {
+      "ref": "2.29.22",
+      "dice": 0.509,
+      "itihasa": "vol-i/ch32#18"
+    },
+    {
+      "ref": "2.29.26",
+      "dice": 0.55,
+      "itihasa": "vol-i/ch32#25"
+    },
+    {
+      "ref": "2.30.20",
+      "dice": 0.614,
+      "itihasa": "vol-i/ch33#20"
+    },
+    {
+      "ref": "2.31.2",
+      "dice": 0.503,
+      "itihasa": "vol-i/ch34#2"
+    },
+    {
+      "ref": "2.31.3",
+      "dice": 0.502,
+      "itihasa": "vol-i/ch34#4"
+    },
+    {
+      "ref": "2.31.30",
+      "dice": 0.551,
+      "itihasa": "vol-i/ch34#34"
+    },
+    {
+      "ref": "2.37.7",
+      "dice": 0.588,
+      "itihasa": "vol-i/ch42#6"
+    },
+    {
+      "ref": "2.39.13",
+      "dice": 0.534,
+      "itihasa": "vol-i/ch44#19"
+    },
+    {
+      "ref": "2.42.2",
+      "dice": 0.507,
+      "itihasa": "vol-i/ch48#1"
+    },
+    {
+      "ref": "2.44.1",
+      "dice": 0.513,
+      "itihasa": "vol-i/ch50#1"
+    },
+    {
+      "ref": "2.45.12",
+      "dice": 0.507,
+      "itihasa": "vol-i/ch51#9"
+    },
+    {
+      "ref": "2.45.21",
+      "dice": 0.507,
+      "itihasa": "vol-i/ch51#18"
+    },
+    {
+      "ref": "2.46.77",
+      "dice": 0.556,
+      "itihasa": "vol-i/ch52#82"
+    },
+    {
+      "ref": "2.48.34",
+      "dice": 0.554,
+      "itihasa": "vol-i/ch54#32"
+    },
+    {
+      "ref": "2.48.35",
+      "dice": 0.556,
+      "itihasa": "vol-i/ch54#33"
+    },
+    {
+      "ref": "2.49.2",
+      "dice": 0.522,
+      "itihasa": "vol-i/ch55#2"
+    },
+    {
+      "ref": "2.49.13",
+      "dice": 0.593,
+      "itihasa": "vol-i/ch55#19"
+    },
+    {
+      "ref": "2.50.12",
+      "dice": 0.581,
+      "itihasa": "vol-i/ch56#12"
+    },
+    {
+      "ref": "2.50.15",
+      "dice": 0.537,
+      "itihasa": "vol-i/ch56#21"
+    },
+    {
+      "ref": "2.52.3",
+      "dice": 0.522,
+      "itihasa": "vol-i/ch58#2"
+    },
+    {
+      "ref": "2.52.12",
+      "dice": 0.505,
+      "itihasa": "vol-i/ch58#12"
+    },
+    {
+      "ref": "2.52.17",
+      "dice": 0.582,
+      "itihasa": "vol-i/ch58#19"
+    },
+    {
+      "ref": "2.57.9",
+      "dice": 0.577,
+      "itihasa": "vol-i/ch63#11"
+    },
+    {
+      "ref": "2.57.12",
+      "dice": 0.617,
+      "itihasa": "vol-i/ch63#15"
+    },
+    {
+      "ref": "2.57.19",
+      "dice": 0.532,
+      "itihasa": "vol-i/ch63#22"
+    },
+    {
+      "ref": "2.57.21",
+      "dice": 0.508,
+      "itihasa": "vol-i/ch63#23"
+    },
+    {
+      "ref": "2.57.26",
+      "dice": 0.593,
+      "itihasa": "vol-i/ch63#25"
+    },
+    {
+      "ref": "2.57.28",
+      "dice": 0.521,
+      "itihasa": "vol-i/ch63#26"
+    },
+    {
+      "ref": "2.58.38",
+      "dice": 0.619,
+      "itihasa": "vol-i/ch64#38"
+    },
+    {
+      "ref": "2.58.40",
+      "dice": 0.539,
+      "itihasa": "vol-i/ch64#41"
+    },
+    {
+      "ref": "2.58.47",
+      "dice": 0.515,
+      "itihasa": "vol-i/ch64#51"
+    },
+    {
+      "ref": "2.58.56",
+      "dice": 0.608,
+      "itihasa": "vol-i/ch64#66"
+    },
+    {
+      "ref": "2.59.6",
+      "dice": 0.545,
+      "itihasa": "vol-i/ch65#11"
+    },
+    {
+      "ref": "2.60.10",
+      "dice": 0.62,
+      "itihasa": "vol-i/ch66#8"
+    },
+    {
+      "ref": "2.63.12",
+      "dice": 0.534,
+      "itihasa": "vol-i/ch69#10"
+    },
+    {
+      "ref": "2.66.45",
+      "dice": 0.592,
+      "itihasa": "vol-i/ch72#47"
+    },
+    {
+      "ref": "2.68.11",
+      "dice": 0.53,
+      "itihasa": "vol-i/ch74#9"
+    },
+    {
+      "ref": "2.68.21",
+      "dice": 0.62,
+      "itihasa": "vol-i/ch74#20"
+    },
+    {
+      "ref": "2.68.27",
+      "dice": 0.598,
+      "itihasa": "vol-i/ch74#27"
+    },
+    {
+      "ref": "2.69.4",
+      "dice": 0.611,
+      "itihasa": "vol-i/ch75#5"
+    },
+    {
+      "ref": "2.69.25",
+      "dice": 0.535,
+      "itihasa": "vol-i/ch75#51"
+    },
+    {
+      "ref": "2.69.32",
+      "dice": 0.62,
+      "itihasa": "vol-i/ch75#56"
+    },
+    {
+      "ref": "2.71.3",
+      "dice": 0.538,
+      "itihasa": "vol-i/ch77#2"
+    },
+    {
+      "ref": "2.74.7",
+      "dice": 0.565,
+      "itihasa": "vol-i/ch80#5"
+    },
+    {
+      "ref": "2.74.19",
+      "dice": 0.513,
+      "itihasa": "vol-i/ch80#12"
+    },
+    {
+      "ref": "2.75.8",
+      "dice": 0.528,
+      "itihasa": "vol-i/ch81#9"
+    },
+    {
+      "ref": "2.76.2",
+      "dice": 0.598,
+      "itihasa": "vol-i/ch82#3"
+    },
+    {
+      "ref": "2.76.29",
+      "dice": 0.574,
+      "itihasa": "vol-i/ch82#30"
+    },
+    {
+      "ref": "2.78.3",
+      "dice": 0.544,
+      "itihasa": "vol-i/ch84#3"
+    },
+    {
+      "ref": "2.78.4",
+      "dice": 0.523,
+      "itihasa": "vol-i/ch84#5"
+    },
+    {
+      "ref": "2.81.6",
+      "dice": 0.51,
+      "itihasa": "vol-i/ch87#5"
+    },
+    {
+      "ref": "2.83.22",
+      "dice": 0.574,
+      "itihasa": "vol-i/ch89#20"
+    },
+    {
+      "ref": "2.85.72",
+      "dice": 0.573,
+      "itihasa": "vol-i/ch91#66"
+    },
+    {
+      "ref": "2.86.23",
+      "dice": 0.562,
+      "itihasa": "vol-i/ch92#18"
+    },
+    {
+      "ref": "2.88.10",
+      "dice": 0.5,
+      "itihasa": "vol-i/ch94#6"
+    },
+    {
+      "ref": "2.90.6",
+      "dice": 0.504,
+      "itihasa": "vol-i/ch96#6"
+    },
+    {
+      "ref": "2.90.19",
+      "dice": 0.529,
+      "itihasa": "vol-i/ch96#18"
+    },
+    {
+      "ref": "2.91.11",
+      "dice": 0.606,
+      "itihasa": "vol-i/ch97#20"
+    },
+    {
+      "ref": "2.94.35",
+      "dice": 0.518,
+      "itihasa": "vol-i/ch100#37"
+    },
+    {
+      "ref": "2.94.56",
+      "dice": 0.502,
+      "itihasa": "vol-i/ch100#57"
+    },
+    {
+      "ref": "2.95.13",
+      "dice": 0.588,
+      "itihasa": "vol-i/ch103#6"
+    },
+    {
+      "ref": "2.98.28",
+      "dice": 0.507,
+      "itihasa": "vol-i/ch105#25"
+    },
+    {
+      "ref": "2.98.41",
+      "dice": 0.564,
+      "itihasa": "vol-i/ch106#2"
+    },
+    {
+      "ref": "2.98.43",
+      "dice": 0.59,
+      "itihasa": "vol-i/ch106#3"
+    },
+    {
+      "ref": "2.102.11",
+      "dice": 0.509,
+      "itihasa": "vol-i/ch110#11"
+    },
+    {
+      "ref": "2.106.17",
+      "dice": 0.549,
+      "itihasa": "vol-i/ch114#15"
+    },
+    {
+      "ref": "2.108.13",
+      "dice": 0.532,
+      "itihasa": "vol-i/ch116#11"
+    },
+    {
+      "ref": "3.1.8",
+      "dice": 0.569,
+      "itihasa": "vol-ii/ch1#2"
+    },
+    {
+      "ref": "3.1.11",
+      "dice": 0.54,
+      "itihasa": "vol-ii/ch1#3"
+    },
+    {
+      "ref": "3.2.18",
+      "dice": 0.619,
+      "itihasa": "vol-ii/ch2#10"
+    },
+    {
+      "ref": "3.3.20",
+      "dice": 0.528,
+      "itihasa": "vol-ii/ch4#17"
+    },
+    {
+      "ref": "3.3.23",
+      "dice": 0.596,
+      "itihasa": "vol-ii/ch4#19"
+    },
+    {
+      "ref": "3.3.26",
+      "dice": 0.563,
+      "itihasa": "vol-ii/ch4#24"
+    },
+    {
+      "ref": "3.4.12",
+      "dice": 0.59,
+      "itihasa": "vol-ii/ch5#9"
+    },
+    {
+      "ref": "3.6.21",
+      "dice": 0.6,
+      "itihasa": "vol-ii/ch7#21"
+    },
+    {
+      "ref": "3.7.3",
+      "dice": 0.519,
+      "itihasa": "vol-ii/ch8#2"
+    },
+    {
+      "ref": "3.7.15",
+      "dice": 0.516,
+      "itihasa": "vol-ii/ch8#10"
+    },
+    {
+      "ref": "3.10.31",
+      "dice": 0.571,
+      "itihasa": "vol-ii/ch11#26"
+    },
+    {
+      "ref": "3.11.31",
+      "dice": 0.509,
+      "itihasa": "vol-ii/ch12#23"
+    },
+    {
+      "ref": "3.13.8",
+      "dice": 0.531,
+      "itihasa": "vol-ii/ch14#7"
+    },
+    {
+      "ref": "3.13.14",
+      "dice": 0.61,
+      "itihasa": "vol-ii/ch14#11"
+    },
+    {
+      "ref": "3.13.17",
+      "dice": 0.603,
+      "itihasa": "vol-ii/ch14#15"
+    },
+    {
+      "ref": "3.13.20",
+      "dice": 0.569,
+      "itihasa": "vol-ii/ch14#16"
+    },
+    {
+      "ref": "3.15.14",
+      "dice": 0.504,
+      "itihasa": "vol-ii/ch16#12"
+    },
+    {
+      "ref": "3.16.9",
+      "dice": 0.602,
+      "itihasa": "vol-ii/ch17#7"
+    },
+    {
+      "ref": "3.16.11",
+      "dice": 0.593,
+      "itihasa": "vol-ii/ch17#8"
+    },
+    {
+      "ref": "3.16.18",
+      "dice": 0.51,
+      "itihasa": "vol-ii/ch17#15"
+    },
+    {
+      "ref": "3.18.17",
+      "dice": 0.509,
+      "itihasa": "vol-ii/ch19#18"
+    },
+    {
+      "ref": "3.19.17",
+      "dice": 0.569,
+      "itihasa": "vol-ii/ch20#15"
+    },
+    {
+      "ref": "3.19.19",
+      "dice": 0.576,
+      "itihasa": "vol-ii/ch20#16"
+    },
+    {
+      "ref": "3.20.17",
+      "dice": 0.55,
+      "itihasa": "vol-ii/ch21#15"
+    },
+    {
+      "ref": "3.21.8",
+      "dice": 0.616,
+      "itihasa": "vol-ii/ch22#8"
+    },
+    {
+      "ref": "3.21.15",
+      "dice": 0.527,
+      "itihasa": "vol-ii/ch22#12"
+    },
+    {
+      "ref": "3.21.18",
+      "dice": 0.607,
+      "itihasa": "vol-ii/ch22#13"
+    },
+    {
+      "ref": "3.22.5",
+      "dice": 0.602,
+      "itihasa": "vol-ii/ch23#5"
+    },
+    {
+      "ref": "3.22.13",
+      "dice": 0.577,
+      "itihasa": "vol-ii/ch23#12"
+    },
+    {
+      "ref": "3.22.15",
+      "dice": 0.544,
+      "itihasa": "vol-ii/ch23#13"
+    },
+    {
+      "ref": "3.22.16",
+      "dice": 0.539,
+      "itihasa": "vol-ii/ch23#14"
+    },
+    {
+      "ref": "3.22.18",
+      "dice": 0.595,
+      "itihasa": "vol-ii/ch23#15"
+    },
+    {
+      "ref": "3.22.21",
+      "dice": 0.511,
+      "itihasa": "vol-ii/ch23#16"
+    },
+    {
+      "ref": "3.22.28",
+      "dice": 0.62,
+      "itihasa": "vol-ii/ch23#22"
+    },
+    {
+      "ref": "3.22.31",
+      "dice": 0.564,
+      "itihasa": "vol-ii/ch23#24"
+    },
+    {
+      "ref": "3.24.25",
+      "dice": 0.582,
+      "itihasa": "vol-ii/ch25#25"
+    },
+    {
+      "ref": "3.25.5",
+      "dice": 0.606,
+      "itihasa": "vol-ii/ch26#8"
+    },
+    {
+      "ref": "3.29.29",
+      "dice": 0.618,
+      "itihasa": "vol-ii/ch30#29"
+    },
+    {
+      "ref": "3.30.11",
+      "dice": 0.522,
+      "itihasa": "vol-ii/ch32#6"
+    },
+    {
+      "ref": "3.30.21",
+      "dice": 0.594,
+      "itihasa": "vol-ii/ch32#15"
+    },
+    {
+      "ref": "3.32.4",
+      "dice": 0.53,
+      "itihasa": "vol-ii/ch34#4"
+    },
+    {
+      "ref": "3.32.14",
+      "dice": 0.556,
+      "itihasa": "vol-ii/ch34#11"
+    },
+    {
+      "ref": "3.33.9",
+      "dice": 0.516,
+      "itihasa": "vol-ii/ch35#6"
+    },
+    {
+      "ref": "3.33.16",
+      "dice": 0.509,
+      "itihasa": "vol-ii/ch35#8"
+    },
+    {
+      "ref": "3.34.2",
+      "dice": 0.5,
+      "itihasa": "vol-ii/ch36#2"
+    },
+    {
+      "ref": "3.34.15",
+      "dice": 0.519,
+      "itihasa": "vol-ii/ch36#8"
+    },
+    {
+      "ref": "3.35.22",
+      "dice": 0.575,
+      "itihasa": "vol-ii/ch37#20"
+    },
+    {
+      "ref": "3.36.26",
+      "dice": 0.613,
+      "itihasa": "vol-ii/ch38#24"
+    },
+    {
+      "ref": "3.36.27",
+      "dice": 0.589,
+      "itihasa": "vol-ii/ch38#25"
+    },
+    {
+      "ref": "3.37.4",
+      "dice": 0.524,
+      "itihasa": "vol-ii/ch39#3"
+    },
+    {
+      "ref": "3.38.14",
+      "dice": 0.599,
+      "itihasa": "vol-ii/ch40#12"
+    },
+    {
+      "ref": "3.41.11",
+      "dice": 0.5,
+      "itihasa": "vol-ii/ch43#9"
+    },
+    {
+      "ref": "3.42.8",
+      "dice": 0.542,
+      "itihasa": "vol-ii/ch44#6"
+    },
+    {
+      "ref": "3.42.9",
+      "dice": 0.596,
+      "itihasa": "vol-ii/ch44#7"
+    },
+    {
+      "ref": "3.42.15",
+      "dice": 0.62,
+      "itihasa": "vol-ii/ch44#13"
+    },
+    {
+      "ref": "3.42.17",
+      "dice": 0.587,
+      "itihasa": "vol-ii/ch44#14"
+    },
+    {
+      "ref": "3.43.7",
+      "dice": 0.574,
+      "itihasa": "vol-ii/ch45#5"
+    },
+    {
+      "ref": "3.43.10",
+      "dice": 0.589,
+      "itihasa": "vol-ii/ch45#9"
+    },
+    {
+      "ref": "3.43.26",
+      "dice": 0.544,
+      "itihasa": "vol-ii/ch45#22"
+    },
+    {
+      "ref": "3.43.27",
+      "dice": 0.513,
+      "itihasa": "vol-ii/ch45#23"
+    },
+    {
+      "ref": "3.43.29",
+      "dice": 0.551,
+      "itihasa": "vol-ii/ch45#24"
+    },
+    {
+      "ref": "3.45.5",
+      "dice": 0.566,
+      "itihasa": "vol-ii/ch47#5"
+    },
+    {
+      "ref": "3.45.17",
+      "dice": 0.524,
+      "itihasa": "vol-ii/ch47#18"
+    },
+    {
+      "ref": "3.45.36",
+      "dice": 0.509,
+      "itihasa": "vol-ii/ch47#34"
+    },
+    {
+      "ref": "3.47.9",
+      "dice": 0.584,
+      "itihasa": "vol-ii/ch49#8"
+    },
+    {
+      "ref": "3.47.13",
+      "dice": 0.581,
+      "itihasa": "vol-ii/ch49#11"
+    },
+    {
+      "ref": "3.49.14",
+      "dice": 0.566,
+      "itihasa": "vol-ii/ch51#12"
+    },
+    {
+      "ref": "3.50.18",
+      "dice": 0.533,
+      "itihasa": "vol-ii/ch52#17"
+    },
+    {
+      "ref": "3.50.38",
+      "dice": 0.616,
+      "itihasa": "vol-ii/ch52#34"
+    },
+    {
+      "ref": "3.51.20",
+      "dice": 0.613,
+      "itihasa": "vol-ii/ch53#16"
+    },
+    {
+      "ref": "3.53.31",
+      "dice": 0.525,
+      "itihasa": "vol-ii/ch55#24"
+    },
+    {
+      "ref": "3.53.33",
+      "dice": 0.583,
+      "itihasa": "vol-ii/ch55#28"
+    },
+    {
+      "ref": "3.54.20",
+      "dice": 0.518,
+      "itihasa": "vol-ii/ch56#20"
+    },
+    {
+      "ref": "3.58.29",
+      "dice": 0.619,
+      "itihasa": "vol-ii/ch60#27"
+    },
+    {
+      "ref": "3.58.31",
+      "dice": 0.609,
+      "itihasa": "vol-ii/ch60#28"
+    },
+    {
+      "ref": "3.58.32",
+      "dice": 0.606,
+      "itihasa": "vol-ii/ch60#29"
+    },
+    {
+      "ref": "3.59.7",
+      "dice": 0.56,
+      "itihasa": "vol-ii/ch61#5"
+    },
+    {
+      "ref": "3.59.15",
+      "dice": 0.529,
+      "itihasa": "vol-ii/ch61#10"
+    },
+    {
+      "ref": "3.59.20",
+      "dice": 0.569,
+      "itihasa": "vol-ii/ch61#13"
+    },
+    {
+      "ref": "3.59.22",
+      "dice": 0.55,
+      "itihasa": "vol-ii/ch61#14"
+    },
+    {
+      "ref": "3.59.23",
+      "dice": 0.551,
+      "itihasa": "vol-ii/ch61#15"
+    },
+    {
+      "ref": "3.60.18",
+      "dice": 0.557,
+      "itihasa": "vol-ii/ch64#20"
+    },
+    {
+      "ref": "3.60.19",
+      "dice": 0.539,
+      "itihasa": "vol-ii/ch64#22"
+    },
+    {
+      "ref": "3.61.3",
+      "dice": 0.545,
+      "itihasa": "vol-ii/ch65#1"
+    },
+    {
+      "ref": "3.61.6",
+      "dice": 0.59,
+      "itihasa": "vol-ii/ch65#4"
+    },
+    {
+      "ref": "3.61.7",
+      "dice": 0.532,
+      "itihasa": "vol-ii/ch65#5"
+    },
+    {
+      "ref": "3.61.9",
+      "dice": 0.542,
+      "itihasa": "vol-ii/ch65#6"
+    },
+    {
+      "ref": "3.61.15",
+      "dice": 0.504,
+      "itihasa": "vol-ii/ch65#9"
+    },
+    {
+      "ref": "3.63.6",
+      "dice": 0.55,
+      "itihasa": "vol-ii/ch67#5"
+    },
+    {
+      "ref": "3.63.9",
+      "dice": 0.586,
+      "itihasa": "vol-ii/ch67#6"
+    },
+    {
+      "ref": "3.64.8",
+      "dice": 0.615,
+      "itihasa": "vol-ii/ch68#6"
+    },
+    {
+      "ref": "3.65.21",
+      "dice": 0.592,
+      "itihasa": "vol-ii/ch69#27"
+    },
+    {
+      "ref": "3.65.25",
+      "dice": 0.55,
+      "itihasa": "vol-ii/ch69#35"
+    },
+    {
+      "ref": "3.67.8",
+      "dice": 0.617,
+      "itihasa": "vol-ii/ch71#5"
+    },
+    {
+      "ref": "3.68.6",
+      "dice": 0.575,
+      "itihasa": "vol-ii/ch72#4"
+    },
+    {
+      "ref": "3.68.15",
+      "dice": 0.581,
+      "itihasa": "vol-ii/ch72#12"
+    },
+    {
+      "ref": "3.69.28",
+      "dice": 0.586,
+      "itihasa": "vol-ii/ch73#18"
+    },
+    {
+      "ref": "3.70.25",
+      "dice": 0.618,
+      "itihasa": "vol-ii/ch74#25"
+    },
+    {
+      "ref": "3.71.17",
+      "dice": 0.572,
+      "itihasa": "vol-ii/ch75#10"
+    },
+    {
+      "ref": "3.71.22",
+      "dice": 0.595,
+      "itihasa": "vol-ii/ch75#12"
+    },
+    {
+      "ref": "4.1.9",
+      "dice": 0.519,
+      "itihasa": "vol-ii/ch1#16"
+    },
+    {
+      "ref": "4.1.19",
+      "dice": 0.588,
+      "itihasa": "vol-ii/ch1#38"
+    },
+    {
+      "ref": "4.1.29",
+      "dice": 0.519,
+      "itihasa": "vol-ii/ch1#58"
+    },
+    {
+      "ref": "4.1.49",
+      "dice": 0.538,
+      "itihasa": "vol-ii/ch1#110"
+    },
+    {
+      "ref": "4.3.12",
+      "dice": 0.538,
+      "itihasa": "vol-ii/ch3#5"
+    },
+    {
+      "ref": "4.3.21",
+      "dice": 0.589,
+      "itihasa": "vol-ii/ch3#11"
+    },
+    {
+      "ref": "4.4.6",
+      "dice": 0.534,
+      "itihasa": "vol-ii/ch4#8"
+    },
+    {
+      "ref": "4.5.10",
+      "dice": 0.577,
+      "itihasa": "vol-ii/ch5#7"
+    },
+    {
+      "ref": "4.6.3",
+      "dice": 0.568,
+      "itihasa": "vol-ii/ch6#2"
+    },
+    {
+      "ref": "4.6.6",
+      "dice": 0.618,
+      "itihasa": "vol-ii/ch6#5"
+    },
+    {
+      "ref": "4.6.20",
+      "dice": 0.604,
+      "itihasa": "vol-ii/ch6#18"
+    },
+    {
+      "ref": "4.11.38",
+      "dice": 0.617,
+      "itihasa": "vol-ii/ch11#37"
+    },
+    {
+      "ref": "4.11.39",
+      "dice": 0.584,
+      "itihasa": "vol-ii/ch11#43"
+    },
+    {
+      "ref": "4.11.52",
+      "dice": 0.54,
+      "itihasa": "vol-ii/ch11#79"
+    },
+    {
+      "ref": "4.13.8",
+      "dice": 0.617,
+      "itihasa": "vol-ii/ch13#5"
+    },
+    {
+      "ref": "4.14.4",
+      "dice": 0.514,
+      "itihasa": "vol-ii/ch14#4"
+    },
+    {
+      "ref": "4.14.7",
+      "dice": 0.571,
+      "itihasa": "vol-ii/ch14#6"
+    },
+    {
+      "ref": "4.14.8",
+      "dice": 0.544,
+      "itihasa": "vol-ii/ch14#7"
+    },
+    {
+      "ref": "4.15.15",
+      "dice": 0.6,
+      "itihasa": "vol-ii/ch15#17"
+    },
+    {
+      "ref": "4.15.17",
+      "dice": 0.509,
+      "itihasa": "vol-ii/ch15#18"
+    },
+    {
+      "ref": "4.16.22",
+      "dice": 0.585,
+      "itihasa": "vol-ii/ch16#23"
+    },
+    {
+      "ref": "4.16.25",
+      "dice": 0.553,
+      "itihasa": "vol-ii/ch16#31"
+    },
+    {
+      "ref": "4.17.22",
+      "dice": 0.52,
+      "itihasa": "vol-ii/ch17#18"
+    },
+    {
+      "ref": "4.17.41",
+      "dice": 0.575,
+      "itihasa": "vol-ii/ch17#41"
+    },
+    {
+      "ref": "4.18.1",
+      "dice": 0.502,
+      "itihasa": "vol-ii/ch18#1"
+    },
+    {
+      "ref": "4.18.30",
+      "dice": 0.6,
+      "itihasa": "vol-ii/ch18#27"
+    },
+    {
+      "ref": "4.18.36",
+      "dice": 0.597,
+      "itihasa": "vol-ii/ch18#34"
+    },
+    {
+      "ref": "4.18.40",
+      "dice": 0.538,
+      "itihasa": "vol-ii/ch18#37"
+    },
+    {
+      "ref": "4.18.42",
+      "dice": 0.53,
+      "itihasa": "vol-ii/ch18#38"
+    },
+    {
+      "ref": "4.18.53",
+      "dice": 0.552,
+      "itihasa": "vol-ii/ch18#49"
+    },
+    {
+      "ref": "4.19.15",
+      "dice": 0.59,
+      "itihasa": "vol-ii/ch19#15"
+    },
+    {
+      "ref": "4.19.25",
+      "dice": 0.51,
+      "itihasa": "vol-ii/ch19#21"
+    },
+    {
+      "ref": "4.19.26",
+      "dice": 0.542,
+      "itihasa": "vol-ii/ch19#22"
+    },
+    {
+      "ref": "4.20.1",
+      "dice": 0.505,
+      "itihasa": "vol-ii/ch20#1"
+    },
+    {
+      "ref": "4.23.28",
+      "dice": 0.589,
+      "itihasa": "vol-ii/ch23#27"
+    },
+    {
+      "ref": "4.25.6",
+      "dice": 0.554,
+      "itihasa": "vol-ii/ch26#4"
+    },
+    {
+      "ref": "4.26.1",
+      "dice": 0.52,
+      "itihasa": "vol-ii/ch27#1"
+    },
+    {
+      "ref": "4.26.18",
+      "dice": 0.536,
+      "itihasa": "vol-ii/ch27#29"
+    },
+    {
+      "ref": "4.29.19",
+      "dice": 0.596,
+      "itihasa": "vol-ii/ch30#16"
+    },
+    {
+      "ref": "4.30.25",
+      "dice": 0.59,
+      "itihasa": "vol-ii/ch31#20"
+    },
+    {
+      "ref": "4.30.33",
+      "dice": 0.521,
+      "itihasa": "vol-ii/ch31#27"
+    },
+    {
+      "ref": "4.30.43",
+      "dice": 0.528,
+      "itihasa": "vol-ii/ch31#41"
+    },
+    {
+      "ref": "4.32.6",
+      "dice": 0.502,
+      "itihasa": "vol-ii/ch33#4"
+    },
+    {
+      "ref": "4.32.19",
+      "dice": 0.614,
+      "itihasa": "vol-ii/ch33#9"
+    },
+    {
+      "ref": "4.37.13",
+      "dice": 0.593,
+      "itihasa": "vol-ii/ch38#12"
+    },
+    {
+      "ref": "4.38.2",
+      "dice": 0.58,
+      "itihasa": "vol-ii/ch39#2"
+    },
+    {
+      "ref": "4.39.15",
+      "dice": 0.506,
+      "itihasa": "vol-ii/ch40#15"
+    },
+    {
+      "ref": "4.39.29",
+      "dice": 0.525,
+      "itihasa": "vol-ii/ch40#17"
+    },
+    {
+      "ref": "4.39.30",
+      "dice": 0.518,
+      "itihasa": "vol-ii/ch40#18"
+    },
+    {
+      "ref": "4.39.31",
+      "dice": 0.558,
+      "itihasa": "vol-ii/ch40#21"
+    },
+    {
+      "ref": "4.39.36",
+      "dice": 0.507,
+      "itihasa": "vol-ii/ch40#24"
+    },
+    {
+      "ref": "4.39.39",
+      "dice": 0.521,
+      "itihasa": "vol-ii/ch40#27"
+    },
+    {
+      "ref": "4.39.44",
+      "dice": 0.533,
+      "itihasa": "vol-ii/ch40#29"
+    },
+    {
+      "ref": "4.39.46",
+      "dice": 0.555,
+      "itihasa": "vol-ii/ch40#31"
+    },
+    {
+      "ref": "4.40.22",
+      "dice": 0.555,
+      "itihasa": "vol-ii/ch41#11"
+    },
+    {
+      "ref": "4.40.27",
+      "dice": 0.519,
+      "itihasa": "vol-ii/ch41#16"
+    },
+    {
+      "ref": "4.41.8",
+      "dice": 0.532,
+      "itihasa": "vol-ii/ch42#3"
+    },
+    {
+      "ref": "4.41.11",
+      "dice": 0.616,
+      "itihasa": "vol-ii/ch42#4"
+    },
+    {
+      "ref": "4.41.33",
+      "dice": 0.513,
+      "itihasa": "vol-ii/ch42#24"
+    },
+    {
+      "ref": "4.42.1",
+      "dice": 0.614,
+      "itihasa": "vol-ii/ch43#1"
+    },
+    {
+      "ref": "4.42.3",
+      "dice": 0.601,
+      "itihasa": "vol-ii/ch43#2"
+    },
+    {
+      "ref": "4.42.27",
+      "dice": 0.511,
+      "itihasa": "vol-ii/ch43#24"
+    },
+    {
+      "ref": "4.42.29",
+      "dice": 0.586,
+      "itihasa": "vol-ii/ch43#25"
+    },
+    {
+      "ref": "4.42.30",
+      "dice": 0.54,
+      "itihasa": "vol-ii/ch43#26"
+    },
+    {
+      "ref": "4.42.32",
+      "dice": 0.58,
+      "itihasa": "vol-ii/ch43#27"
+    },
+    {
+      "ref": "4.42.46",
+      "dice": 0.537,
+      "itihasa": "vol-ii/ch43#39"
+    },
+    {
+      "ref": "4.44.1",
+      "dice": 0.542,
+      "itihasa": "vol-ii/ch45#2"
+    },
+    {
+      "ref": "4.44.6",
+      "dice": 0.543,
+      "itihasa": "vol-ii/ch45#5"
+    },
+    {
+      "ref": "4.45.10",
+      "dice": 0.613,
+      "itihasa": "vol-ii/ch46#9"
+    },
+    {
+      "ref": "4.45.11",
+      "dice": 0.619,
+      "itihasa": "vol-ii/ch46#10"
+    },
+    {
+      "ref": "4.46.13",
+      "dice": 0.602,
+      "itihasa": "vol-ii/ch47#11"
+    },
+    {
+      "ref": "4.47.4",
+      "dice": 0.502,
+      "itihasa": "vol-ii/ch48#2"
+    },
+    {
+      "ref": "4.48.2",
+      "dice": 0.604,
+      "itihasa": "vol-ii/ch49#2"
+    },
+    {
+      "ref": "4.49.3",
+      "dice": 0.575,
+      "itihasa": "vol-ii/ch50#2"
+    },
+    {
+      "ref": "4.49.11",
+      "dice": 0.522,
+      "itihasa": "vol-ii/ch50#6"
+    },
+    {
+      "ref": "4.49.16",
+      "dice": 0.615,
+      "itihasa": "vol-ii/ch50#10"
+    },
+    {
+      "ref": "4.50.5",
+      "dice": 0.588,
+      "itihasa": "vol-ii/ch51#3"
+    },
+    {
+      "ref": "4.50.7",
+      "dice": 0.593,
+      "itihasa": "vol-ii/ch51#4"
+    },
+    {
+      "ref": "4.52.33",
+      "dice": 0.585,
+      "itihasa": "vol-ii/ch53#20"
+    },
+    {
+      "ref": "4.53.4",
+      "dice": 0.509,
+      "itihasa": "vol-ii/ch54#2"
+    },
+    {
+      "ref": "4.54.15",
+      "dice": 0.59,
+      "itihasa": "vol-ii/ch55#12"
+    },
+    {
+      "ref": "4.54.20",
+      "dice": 0.61,
+      "itihasa": "vol-ii/ch55#16"
+    },
+    {
+      "ref": "4.55.20",
+      "dice": 0.582,
+      "itihasa": "vol-ii/ch56#18"
+    },
+    {
+      "ref": "4.56.10",
+      "dice": 0.556,
+      "itihasa": "vol-ii/ch57#7"
+    },
+    {
+      "ref": "4.57.23",
+      "dice": 0.604,
+      "itihasa": "vol-ii/ch58#19"
+    },
+    {
+      "ref": "4.57.24",
+      "dice": 0.559,
+      "itihasa": "vol-ii/ch58#20"
+    },
+    {
+      "ref": "4.57.28",
+      "dice": 0.563,
+      "itihasa": "vol-ii/ch58#23"
+    },
+    {
+      "ref": "4.58.23",
+      "dice": 0.521,
+      "itihasa": "vol-ii/ch59#19"
+    },
+    {
+      "ref": "4.60.12",
+      "dice": 0.588,
+      "itihasa": "vol-ii/ch61#9"
+    },
+    {
+      "ref": "4.60.13",
+      "dice": 0.507,
+      "itihasa": "vol-ii/ch61#10"
+    },
+    {
+      "ref": "4.63.21",
+      "dice": 0.528,
+      "itihasa": "vol-ii/ch64#17"
+    },
+    {
+      "ref": "4.63.24",
+      "dice": 0.608,
+      "itihasa": "vol-ii/ch64#19"
+    },
+    {
+      "ref": "4.64.9",
+      "dice": 0.5,
+      "itihasa": "vol-ii/ch65#9"
+    },
+    {
+      "ref": "4.64.11",
+      "dice": 0.509,
+      "itihasa": "vol-ii/ch65#11"
+    },
+    {
+      "ref": "4.64.14",
+      "dice": 0.615,
+      "itihasa": "vol-ii/ch65#12"
+    },
+    {
+      "ref": "4.65.15",
+      "dice": 0.5,
+      "itihasa": "vol-ii/ch66#10"
+    },
+    {
+      "ref": "4.65.27",
+      "dice": 0.561,
+      "itihasa": "vol-ii/ch66#24"
+    },
+    {
+      "ref": "4.66.1",
+      "dice": 0.535,
+      "itihasa": "vol-ii/ch67#2"
+    },
+    {
+      "ref": "4.66.26",
+      "dice": 0.553,
+      "itihasa": "vol-ii/ch67#22"
+    },
+    {
+      "ref": "4.66.32",
+      "dice": 0.613,
+      "itihasa": "vol-ii/ch67#29"
+    },
+    {
+      "ref": "4.66.39",
+      "dice": 0.502,
+      "itihasa": "vol-ii/ch67#33"
+    },
+    {
+      "ref": "5.1.31",
+      "dice": 0.618,
+      "itihasa": "vol-ii/ch1#16"
+    },
+    {
+      "ref": "5.1.40",
+      "dice": 0.542,
+      "itihasa": "vol-ii/ch1#21"
+    },
+    {
+      "ref": "5.1.67",
+      "dice": 0.514,
+      "itihasa": "vol-ii/ch1#41"
+    },
+    {
+      "ref": "5.1.143",
+      "dice": 0.568,
+      "itihasa": "vol-ii/ch1#121"
+    },
+    {
+      "ref": "5.1.164",
+      "dice": 0.526,
+      "itihasa": "vol-ii/ch1#51"
+    },
+    {
+      "ref": "5.2.19",
+      "dice": 0.56,
+      "itihasa": "vol-ii/ch2#11"
+    },
+    {
+      "ref": "5.2.23",
+      "dice": 0.522,
+      "itihasa": "vol-ii/ch2#12"
+    },
+    {
+      "ref": "5.2.54",
+      "dice": 0.576,
+      "itihasa": "vol-ii/ch2#40"
+    },
+    {
+      "ref": "5.3.18",
+      "dice": 0.5,
+      "itihasa": "vol-ii/ch3#9"
+    },
+    {
+      "ref": "5.3.24",
+      "dice": 0.524,
+      "itihasa": "vol-ii/ch4#7"
+    },
+    {
+      "ref": "5.3.26",
+      "dice": 0.604,
+      "itihasa": "vol-ii/ch4#9"
+    },
+    {
+      "ref": "5.3.27",
+      "dice": 0.549,
+      "itihasa": "vol-ii/ch4#10"
+    },
+    {
+      "ref": "5.3.37",
+      "dice": 0.574,
+      "itihasa": "vol-ii/ch4#15"
+    },
+    {
+      "ref": "5.4.10",
+      "dice": 0.605,
+      "itihasa": "vol-ii/ch5#10"
+    },
+    {
+      "ref": "5.5.11",
+      "dice": 0.549,
+      "itihasa": "vol-ii/ch6#5"
+    },
+    {
+      "ref": "5.5.13",
+      "dice": 0.589,
+      "itihasa": "vol-ii/ch6#6"
+    },
+    {
+      "ref": "5.5.19",
+      "dice": 0.583,
+      "itihasa": "vol-ii/ch6#12"
+    },
+    {
+      "ref": "5.5.20",
+      "dice": 0.569,
+      "itihasa": "vol-ii/ch6#13"
+    },
+    {
+      "ref": "5.5.42",
+      "dice": 0.507,
+      "itihasa": "vol-ii/ch6#24"
+    },
+    {
+      "ref": "5.7.17",
+      "dice": 0.524,
+      "itihasa": "vol-ii/ch9#9"
+    },
+    {
+      "ref": "5.8.37",
+      "dice": 0.595,
+      "itihasa": "vol-ii/ch10#26"
+    },
+    {
+      "ref": "5.9.19",
+      "dice": 0.557,
+      "itihasa": "vol-ii/ch11#15"
+    },
+    {
+      "ref": "5.9.23",
+      "dice": 0.614,
+      "itihasa": "vol-ii/ch11#17"
+    },
+    {
+      "ref": "5.12.3",
+      "dice": 0.514,
+      "itihasa": "vol-ii/ch14#2"
+    },
+    {
+      "ref": "5.13.5",
+      "dice": 0.509,
+      "itihasa": "vol-ii/ch15#3"
+    },
+    {
+      "ref": "5.13.8",
+      "dice": 0.57,
+      "itihasa": "vol-ii/ch15#5"
+    },
+    {
+      "ref": "5.13.24",
+      "dice": 0.51,
+      "itihasa": "vol-ii/ch15#18"
+    },
+    {
+      "ref": "5.13.25",
+      "dice": 0.528,
+      "itihasa": "vol-ii/ch15#19"
+    },
+    {
+      "ref": "5.13.30",
+      "dice": 0.547,
+      "itihasa": "vol-ii/ch15#22"
+    },
+    {
+      "ref": "5.15.17",
+      "dice": 0.554,
+      "itihasa": "vol-ii/ch17#15"
+    },
+    {
+      "ref": "5.16.26",
+      "dice": 0.562,
+      "itihasa": "vol-ii/ch18#25"
+    },
+    {
+      "ref": "5.19.6",
+      "dice": 0.569,
+      "itihasa": "vol-ii/ch21#6"
+    },
+    {
+      "ref": "5.21.15",
+      "dice": 0.576,
+      "itihasa": "vol-ii/ch23#12"
+    },
+    {
+      "ref": "5.22.26",
+      "dice": 0.613,
+      "itihasa": "vol-ii/ch23#41"
+    },
+    {
+      "ref": "5.22.28",
+      "dice": 0.51,
+      "itihasa": "vol-ii/ch23#42"
+    },
+    {
+      "ref": "5.22.29",
+      "dice": 0.531,
+      "itihasa": "vol-ii/ch23#43"
+    },
+    {
+      "ref": "5.22.31",
+      "dice": 0.545,
+      "itihasa": "vol-ii/ch23#44"
+    },
+    {
+      "ref": "5.24.24",
+      "dice": 0.612,
+      "itihasa": "vol-ii/ch26#23"
+    },
+    {
+      "ref": "5.24.33",
+      "dice": 0.537,
+      "itihasa": "vol-ii/ch26#31"
+    },
+    {
+      "ref": "5.24.35",
+      "dice": 0.514,
+      "itihasa": "vol-ii/ch26#33"
+    },
+    {
+      "ref": "5.24.36",
+      "dice": 0.587,
+      "itihasa": "vol-ii/ch26#34"
+    },
+    {
+      "ref": "5.25.18",
+      "dice": 0.515,
+      "itihasa": "vol-ii/ch27#16"
+    },
+    {
+      "ref": "5.25.19",
+      "dice": 0.506,
+      "itihasa": "vol-ii/ch27#17"
+    },
+    {
+      "ref": "5.31.12",
+      "dice": 0.618,
+      "itihasa": "vol-ii/ch33#11"
+    },
+    {
+      "ref": "5.32.38",
+      "dice": 0.584,
+      "itihasa": "vol-ii/ch34#34"
+    },
+    {
+      "ref": "5.33.23",
+      "dice": 0.611,
+      "itihasa": "vol-ii/ch35#20"
+    },
+    {
+      "ref": "5.33.57",
+      "dice": 0.612,
+      "itihasa": "vol-ii/ch35#50"
+    },
+    {
+      "ref": "5.33.64",
+      "dice": 0.598,
+      "itihasa": "vol-ii/ch35#55"
+    },
+    {
+      "ref": "5.33.75",
+      "dice": 0.555,
+      "itihasa": "vol-ii/ch35#63"
+    },
+    {
+      "ref": "5.33.76",
+      "dice": 0.57,
+      "itihasa": "vol-ii/ch35#64"
+    },
+    {
+      "ref": "5.34.32",
+      "dice": 0.5,
+      "itihasa": "vol-ii/ch36#31"
+    },
+    {
+      "ref": "5.35.27",
+      "dice": 0.554,
+      "itihasa": "vol-ii/ch37#26"
+    },
+    {
+      "ref": "5.36.30",
+      "dice": 0.61,
+      "itihasa": "vol-ii/ch38#28"
+    },
+    {
+      "ref": "5.36.34",
+      "dice": 0.566,
+      "itihasa": "vol-ii/ch38#32"
+    },
+    {
+      "ref": "5.37.51",
+      "dice": 0.59,
+      "itihasa": "vol-ii/ch39#48"
+    },
+    {
+      "ref": "5.39.16",
+      "dice": 0.605,
+      "itihasa": "vol-ii/ch41#16"
+    },
+    {
+      "ref": "5.40.17",
+      "dice": 0.616,
+      "itihasa": "vol-ii/ch42#15"
+    },
+    {
+      "ref": "5.40.33",
+      "dice": 0.529,
+      "itihasa": "vol-ii/ch42#35"
+    },
+    {
+      "ref": "5.41.15",
+      "dice": 0.5,
+      "itihasa": "vol-ii/ch43#13"
+    },
+    {
+      "ref": "5.42.9",
+      "dice": 0.565,
+      "itihasa": "vol-ii/ch44#9"
+    },
+    {
+      "ref": "5.46.3",
+      "dice": 0.537,
+      "itihasa": "vol-ii/ch48#3"
+    },
+    {
+      "ref": "5.46.9",
+      "dice": 0.541,
+      "itihasa": "vol-ii/ch48#8"
+    },
+    {
+      "ref": "5.47.19",
+      "dice": 0.544,
+      "itihasa": "vol-ii/ch49#6"
+    },
+    {
+      "ref": "5.48.10",
+      "dice": 0.502,
+      "itihasa": "vol-ii/ch50#8"
+    },
+    {
+      "ref": "5.48.13",
+      "dice": 0.606,
+      "itihasa": "vol-ii/ch50#9"
+    },
+    {
+      "ref": "5.50.4",
+      "dice": 0.593,
+      "itihasa": "vol-ii/ch52#4"
+    },
+    {
+      "ref": "5.51.10",
+      "dice": 0.505,
+      "itihasa": "vol-ii/ch53#9"
+    },
+    {
+      "ref": "5.51.34",
+      "dice": 0.533,
+      "itihasa": "vol-ii/ch53#30"
+    },
+    {
+      "ref": "5.52.10",
+      "dice": 0.6,
+      "itihasa": "vol-ii/ch54#16"
+    },
+    {
+      "ref": "5.55.4",
+      "dice": 0.62,
+      "itihasa": "vol-ii/ch57#2"
+    },
+    {
+      "ref": "5.55.8",
+      "dice": 0.52,
+      "itihasa": "vol-ii/ch57#7"
+    },
+    {
+      "ref": "5.56.13",
+      "dice": 0.578,
+      "itihasa": "vol-ii/ch58#10"
+    },
+    {
+      "ref": "5.56.18",
+      "dice": 0.538,
+      "itihasa": "vol-ii/ch58#12"
+    },
+    {
+      "ref": "5.56.31",
+      "dice": 0.542,
+      "itihasa": "vol-ii/ch58#20"
+    },
+    {
+      "ref": "5.56.33",
+      "dice": 0.51,
+      "itihasa": "vol-ii/ch58#22"
+    },
+    {
+      "ref": "5.56.110",
+      "dice": 0.557,
+      "itihasa": "vol-ii/ch58#99"
+    },
+    {
+      "ref": "5.57.11",
+      "dice": 0.509,
+      "itihasa": "vol-ii/ch59#21"
+    },
+    {
+      "ref": "5.57.12",
+      "dice": 0.503,
+      "itihasa": "vol-ii/ch58#41"
+    },
+    {
+      "ref": "5.57.16",
+      "dice": 0.618,
+      "itihasa": "vol-ii/ch59#23"
+    },
+    {
+      "ref": "5.58.1",
+      "dice": 0.542,
+      "itihasa": "vol-ii/ch60#1"
+    },
+    {
+      "ref": "5.58.3",
+      "dice": 0.599,
+      "itihasa": "vol-ii/ch59#7"
+    },
+    {
+      "ref": "5.58.13",
+      "dice": 0.527,
+      "itihasa": "vol-ii/ch59#15"
+    },
+    {
+      "ref": "5.58.14",
+      "dice": 0.571,
+      "itihasa": "vol-ii/ch60#2"
+    },
+    {
+      "ref": "5.59.22",
+      "dice": 0.614,
+      "itihasa": "vol-ii/ch61#20"
+    },
+    {
+      "ref": "5.60.8",
+      "dice": 0.505,
+      "itihasa": "vol-ii/ch62#6"
+    },
+    {
+      "ref": "5.60.20",
+      "dice": 0.616,
+      "itihasa": "vol-ii/ch62#14"
+    },
+    {
+      "ref": "5.61.2",
+      "dice": 0.536,
+      "itihasa": "vol-ii/ch63#2"
+    },
+    {
+      "ref": "5.61.5",
+      "dice": 0.514,
+      "itihasa": "vol-ii/ch63#5"
+    },
+    {
+      "ref": "5.61.20",
+      "dice": 0.535,
+      "itihasa": "vol-ii/ch63#20"
+    },
+    {
+      "ref": "5.61.26",
+      "dice": 0.604,
+      "itihasa": "vol-ii/ch63#25"
+    },
+    {
+      "ref": "5.62.7",
+      "dice": 0.545,
+      "itihasa": "vol-ii/ch64#7"
+    },
+    {
+      "ref": "5.62.23",
+      "dice": 0.615,
+      "itihasa": "vol-ii/ch64#21"
+    },
+    {
+      "ref": "5.63.7",
+      "dice": 0.607,
+      "itihasa": "vol-ii/ch65#5"
+    },
+    {
+      "ref": "5.63.15",
+      "dice": 0.558,
+      "itihasa": "vol-ii/ch65#10"
+    },
+    {
+      "ref": "5.63.19",
+      "dice": 0.62,
+      "itihasa": "vol-ii/ch65#14"
+    },
+    {
+      "ref": "5.63.22",
+      "dice": 0.558,
+      "itihasa": "vol-ii/ch65#15"
+    },
+    {
+      "ref": "5.65.32",
+      "dice": 0.586,
+      "itihasa": "vol-ii/ch67#30"
+    },
+    {
+      "ref": "6.2.8",
+      "dice": 0.518,
+      "itihasa": "vol-iii/ch2#8"
+    },
+    {
+      "ref": "6.2.11",
+      "dice": 0.519,
+      "itihasa": "vol-iii/ch2#12"
+    },
+    {
+      "ref": "6.2.14",
+      "dice": 0.508,
+      "itihasa": "vol-iii/ch2#15"
+    },
+    {
+      "ref": "6.2.16",
+      "dice": 0.577,
+      "itihasa": "vol-iii/ch2#16"
+    },
+    {
+      "ref": "6.2.17",
+      "dice": 0.569,
+      "itihasa": "vol-iii/ch2#17"
+    },
+    {
+      "ref": "6.2.18",
+      "dice": 0.595,
+      "itihasa": "vol-iii/ch2#18"
+    },
+    {
+      "ref": "6.2.19",
+      "dice": 0.595,
+      "itihasa": "vol-iii/ch2#19"
+    },
+    {
+      "ref": "6.2.20",
+      "dice": 0.552,
+      "itihasa": "vol-iii/ch2#21"
+    },
+    {
+      "ref": "6.3.30",
+      "dice": 0.544,
+      "itihasa": "vol-iii/ch3#26"
+    },
+    {
+      "ref": "6.4.35",
+      "dice": 0.535,
+      "itihasa": "vol-iii/ch4#37"
+    },
+    {
+      "ref": "6.4.43",
+      "dice": 0.507,
+      "itihasa": "vol-iii/ch4#43"
+    },
+    {
+      "ref": "6.4.50",
+      "dice": 0.5,
+      "itihasa": "vol-iii/ch4#49"
+    },
+    {
+      "ref": "6.4.54",
+      "dice": 0.58,
+      "itihasa": "vol-iii/ch4#60"
+    },
+    {
+      "ref": "6.4.55",
+      "dice": 0.505,
+      "itihasa": "vol-iii/ch4#61"
+    },
+    {
+      "ref": "6.7.13",
+      "dice": 0.544,
+      "itihasa": "vol-iii/ch7#11"
+    },
+    {
+      "ref": "6.11.20",
+      "dice": 0.606,
+      "itihasa": "vol-iii/ch17#27"
+    },
+    {
+      "ref": "6.11.57",
+      "dice": 0.615,
+      "itihasa": "vol-iii/ch17#63"
+    },
+    {
+      "ref": "6.13.15",
+      "dice": 0.5,
+      "itihasa": "vol-iii/ch19#27"
+    },
+    {
+      "ref": "6.14.2",
+      "dice": 0.616,
+      "itihasa": "vol-iii/ch21#4"
+    },
+    {
+      "ref": "6.14.11",
+      "dice": 0.545,
+      "itihasa": "vol-iii/ch21#11"
+    },
+    {
+      "ref": "6.15.13",
+      "dice": 0.556,
+      "itihasa": "vol-iii/ch22#42"
+    },
+    {
+      "ref": "6.15.20",
+      "dice": 0.545,
+      "itihasa": "vol-iii/ch22#49"
+    },
+    {
+      "ref": "6.16.12",
+      "dice": 0.608,
+      "itihasa": "vol-iii/ch25#7"
+    },
+    {
+      "ref": "6.16.26",
+      "dice": 0.507,
+      "itihasa": "vol-iii/ch25#23"
+    },
+    {
+      "ref": "6.17.12",
+      "dice": 0.516,
+      "itihasa": "vol-iii/ch26#8"
+    },
+    {
+      "ref": "6.17.15",
+      "dice": 0.539,
+      "itihasa": "vol-iii/ch26#9"
+    },
+    {
+      "ref": "6.17.16",
+      "dice": 0.569,
+      "itihasa": "vol-iii/ch26#13"
+    },
+    {
+      "ref": "6.17.20",
+      "dice": 0.559,
+      "itihasa": "vol-iii/ch26#14"
+    },
+    {
+      "ref": "6.17.23",
+      "dice": 0.553,
+      "itihasa": "vol-iii/ch26#16"
+    },
+    {
+      "ref": "6.17.35",
+      "dice": 0.601,
+      "itihasa": "vol-iii/ch26#20"
+    },
+    {
+      "ref": "6.17.37",
+      "dice": 0.583,
+      "itihasa": "vol-iii/ch26#21"
+    },
+    {
+      "ref": "6.17.38",
+      "dice": 0.579,
+      "itihasa": "vol-iii/ch26#22"
+    },
+    {
+      "ref": "6.18.11",
+      "dice": 0.585,
+      "itihasa": "vol-iii/ch27#4"
+    },
+    {
+      "ref": "6.18.16",
+      "dice": 0.618,
+      "itihasa": "vol-iii/ch27#7"
+    },
+    {
+      "ref": "6.18.18",
+      "dice": 0.514,
+      "itihasa": "vol-iii/ch27#8"
+    },
+    {
+      "ref": "6.19.6",
+      "dice": 0.618,
+      "itihasa": "vol-iii/ch28#4"
+    },
+    {
+      "ref": "6.19.11",
+      "dice": 0.516,
+      "itihasa": "vol-iii/ch28#5"
+    },
+    {
+      "ref": "6.19.14",
+      "dice": 0.607,
+      "itihasa": "vol-iii/ch28#7"
+    },
+    {
+      "ref": "6.19.17",
+      "dice": 0.556,
+      "itihasa": "vol-iii/ch28#9"
+    },
+    {
+      "ref": "6.20.22",
+      "dice": 0.569,
+      "itihasa": "vol-iii/ch29#20"
+    },
+    {
+      "ref": "6.22.9",
+      "dice": 0.602,
+      "itihasa": "vol-iii/ch31#8"
+    },
+    {
+      "ref": "6.22.10",
+      "dice": 0.54,
+      "itihasa": "vol-iii/ch31#10"
+    },
+    {
+      "ref": "6.23.1",
+      "dice": 0.512,
+      "itihasa": "vol-iii/ch32#1"
+    },
+    {
+      "ref": "6.23.35",
+      "dice": 0.604,
+      "itihasa": "vol-iii/ch32#32"
+    },
+    {
+      "ref": "6.24.10",
+      "dice": 0.507,
+      "itihasa": "vol-iii/ch33#8"
+    },
+    {
+      "ref": "6.24.21",
+      "dice": 0.557,
+      "itihasa": "vol-iii/ch33#18"
+    },
+    {
+      "ref": "6.24.23",
+      "dice": 0.573,
+      "itihasa": "vol-iii/ch33#20"
+    },
+    {
+      "ref": "6.24.27",
+      "dice": 0.533,
+      "itihasa": "vol-iii/ch33#21"
+    },
+    {
+      "ref": "6.26.3",
+      "dice": 0.612,
+      "itihasa": "vol-iii/ch35#3"
+    },
+    {
+      "ref": "6.26.17",
+      "dice": 0.512,
+      "itihasa": "vol-iii/ch35#17"
+    },
+    {
+      "ref": "6.26.20",
+      "dice": 0.514,
+      "itihasa": "vol-iii/ch35#20"
+    },
+    {
+      "ref": "6.28.2",
+      "dice": 0.502,
+      "itihasa": "vol-iii/ch37#1"
+    },
+    {
+      "ref": "6.28.11",
+      "dice": 0.556,
+      "itihasa": "vol-iii/ch37#8"
+    },
+    {
+      "ref": "6.28.19",
+      "dice": 0.547,
+      "itihasa": "vol-iii/ch37#15"
+    },
+    {
+      "ref": "6.28.20",
+      "dice": 0.616,
+      "itihasa": "vol-iii/ch37#16"
+    },
+    {
+      "ref": "6.28.28",
+      "dice": 0.512,
+      "itihasa": "vol-iii/ch37#23"
+    },
+    {
+      "ref": "6.29.9",
+      "dice": 0.591,
+      "itihasa": "vol-iii/ch38#5"
+    },
+    {
+      "ref": "6.29.13",
+      "dice": 0.524,
+      "itihasa": "vol-iii/ch38#6"
+    },
+    {
+      "ref": "6.30.14",
+      "dice": 0.599,
+      "itihasa": "vol-iii/ch39#8"
+    },
+    {
+      "ref": "6.31.31",
+      "dice": 0.552,
+      "itihasa": "vol-iii/ch41#32"
+    },
+    {
+      "ref": "6.31.53",
+      "dice": 0.6,
+      "itihasa": "vol-iii/ch41#51"
+    },
+    {
+      "ref": "6.31.77",
+      "dice": 0.563,
+      "itihasa": "vol-iii/ch41#75"
+    },
+    {
+      "ref": "6.32.9",
+      "dice": 0.596,
+      "itihasa": "vol-iii/ch42#15"
+    },
+    {
+      "ref": "6.32.11",
+      "dice": 0.615,
+      "itihasa": "vol-iii/ch42#17"
+    },
+    {
+      "ref": "6.33.12",
+      "dice": 0.522,
+      "itihasa": "vol-iii/ch43#10"
+    },
+    {
+      "ref": "6.33.23",
+      "dice": 0.5,
+      "itihasa": "vol-iii/ch43#19"
+    },
+    {
+      "ref": "6.33.44",
+      "dice": 0.576,
+      "itihasa": "vol-iii/ch43#39"
+    },
+    {
+      "ref": "6.34.28",
+      "dice": 0.549,
+      "itihasa": "vol-iii/ch44#25"
+    },
+    {
+      "ref": "6.36.10",
+      "dice": 0.571,
+      "itihasa": "vol-iii/ch46#8"
+    },
+    {
+      "ref": "6.36.28",
+      "dice": 0.528,
+      "itihasa": "vol-iii/ch46#26"
+    },
+    {
+      "ref": "6.37.4",
+      "dice": 0.53,
+      "itihasa": "vol-iii/ch47#2"
+    },
+    {
+      "ref": "6.38.21",
+      "dice": 0.577,
+      "itihasa": "vol-iii/ch48#20"
+    },
+    {
+      "ref": "6.38.27",
+      "dice": 0.571,
+      "itihasa": "vol-iii/ch48#25"
+    },
+    {
+      "ref": "6.38.31",
+      "dice": 0.619,
+      "itihasa": "vol-iii/ch48#29"
+    },
+    {
+      "ref": "6.39.24",
+      "dice": 0.602,
+      "itihasa": "vol-iii/ch49#23"
+    },
+    {
+      "ref": "6.40.31",
+      "dice": 0.604,
+      "itihasa": "vol-iii/ch50#31"
+    },
+    {
+      "ref": "6.40.56",
+      "dice": 0.618,
+      "itihasa": "vol-iii/ch50#52"
+    },
+    {
+      "ref": "6.43.12",
+      "dice": 0.508,
+      "itihasa": "vol-iii/ch55#14"
+    },
+    {
+      "ref": "6.44.8",
+      "dice": 0.594,
+      "itihasa": "vol-iii/ch56#8"
+    },
+    {
+      "ref": "6.45.17",
+      "dice": 0.583,
+      "itihasa": "vol-iii/ch57#17"
+    },
+    {
+      "ref": "6.45.19",
+      "dice": 0.602,
+      "itihasa": "vol-iii/ch57#19"
+    },
+    {
+      "ref": "6.45.25",
+      "dice": 0.505,
+      "itihasa": "vol-iii/ch57#23"
+    },
+    {
+      "ref": "6.45.28",
+      "dice": 0.578,
+      "itihasa": "vol-iii/ch57#24"
+    },
+    {
+      "ref": "6.45.34",
+      "dice": 0.617,
+      "itihasa": "vol-iii/ch53#11"
+    },
+    {
+      "ref": "6.45.35",
+      "dice": 0.528,
+      "itihasa": "vol-iii/ch57#31"
+    },
+    {
+      "ref": "6.45.36",
+      "dice": 0.565,
+      "itihasa": "vol-iii/ch57#32"
+    },
+    {
+      "ref": "6.46.3",
+      "dice": 0.608,
+      "itihasa": "vol-iii/ch58#5"
+    },
+    {
+      "ref": "6.46.33",
+      "dice": 0.573,
+      "itihasa": "vol-iii/ch58#33"
+    },
+    {
+      "ref": "6.46.50",
+      "dice": 0.574,
+      "itihasa": "vol-iii/ch58#48"
+    },
+    {
+      "ref": "6.47.42",
+      "dice": 0.598,
+      "itihasa": "vol-iii/ch59#40"
+    },
+    {
+      "ref": "6.47.43",
+      "dice": 0.615,
+      "itihasa": "vol-iii/ch59#41"
+    },
+    {
+      "ref": "6.47.59",
+      "dice": 0.532,
+      "itihasa": "vol-iii/ch59#56"
+    },
+    {
+      "ref": "6.47.124",
+      "dice": 0.561,
+      "itihasa": "vol-iii/ch59#122"
+    },
+    {
+      "ref": "6.48.14",
+      "dice": 0.603,
+      "itihasa": "vol-iii/ch60#17"
+    },
+    {
+      "ref": "6.48.15",
+      "dice": 0.514,
+      "itihasa": "vol-iii/ch60#18"
+    },
+    {
+      "ref": "6.48.16",
+      "dice": 0.559,
+      "itihasa": "vol-iii/ch60#19"
+    },
+    {
+      "ref": "6.48.17",
+      "dice": 0.52,
+      "itihasa": "vol-iii/ch60#20"
+    },
+    {
+      "ref": "6.48.83",
+      "dice": 0.533,
+      "itihasa": "vol-iii/ch60#80"
+    },
+    {
+      "ref": "6.49.20",
+      "dice": 0.587,
+      "itihasa": "vol-iii/ch61#18"
+    },
+    {
+      "ref": "6.49.24",
+      "dice": 0.547,
+      "itihasa": "vol-iii/ch61#23"
+    },
+    {
+      "ref": "6.50.8",
+      "dice": 0.558,
+      "itihasa": "vol-iii/ch62#9"
+    },
+    {
+      "ref": "6.50.11",
+      "dice": 0.607,
+      "itihasa": "vol-iii/ch62#11"
+    },
+    {
+      "ref": "6.51.24",
+      "dice": 0.581,
+      "itihasa": "vol-iii/ch63#23"
+    },
+    {
+      "ref": "6.51.38",
+      "dice": 0.587,
+      "itihasa": "vol-iii/ch63#37"
+    },
+    {
+      "ref": "6.53.14",
+      "dice": 0.542,
+      "itihasa": "vol-iii/ch65#17"
+    },
+    {
+      "ref": "6.53.15",
+      "dice": 0.547,
+      "itihasa": "vol-iii/ch65#18"
+    },
+    {
+      "ref": "6.53.18",
+      "dice": 0.557,
+      "itihasa": "vol-iii/ch65#19"
+    },
+    {
+      "ref": "6.53.22",
+      "dice": 0.619,
+      "itihasa": "vol-iii/ch65#22"
+    },
+    {
+      "ref": "6.53.31",
+      "dice": 0.56,
+      "itihasa": "vol-iii/ch65#32"
+    },
+    {
+      "ref": "6.54.15",
+      "dice": 0.538,
+      "itihasa": "vol-iii/ch66#15"
+    },
+    {
+      "ref": "6.55.15",
+      "dice": 0.558,
+      "itihasa": "vol-iii/ch67#21"
+    },
+    {
+      "ref": "6.55.80",
+      "dice": 0.535,
+      "itihasa": "vol-iii/ch67#109"
+    },
+    {
+      "ref": "6.55.102",
+      "dice": 0.568,
+      "itihasa": "vol-iii/ch67#130"
+    },
+    {
+      "ref": "6.57.13",
+      "dice": 0.597,
+      "itihasa": "vol-iii/ch69#12"
+    },
+    {
+      "ref": "6.57.18",
+      "dice": 0.614,
+      "itihasa": "vol-iii/ch69#17"
+    },
+    {
+      "ref": "6.57.42",
+      "dice": 0.586,
+      "itihasa": "vol-iii/ch69#38"
+    },
+    {
+      "ref": "6.57.47",
+      "dice": 0.58,
+      "itihasa": "vol-iii/ch69#42"
+    },
+    {
+      "ref": "6.58.52",
+      "dice": 0.561,
+      "itihasa": "vol-iii/ch70#55"
+    },
+    {
+      "ref": "6.59.12",
+      "dice": 0.515,
+      "itihasa": "vol-iii/ch71#10"
+    },
+    {
+      "ref": "6.59.16",
+      "dice": 0.502,
+      "itihasa": "vol-iii/ch71#12"
+    },
+    {
+      "ref": "6.59.23",
+      "dice": 0.579,
+      "itihasa": "vol-iii/ch71#18"
+    },
+    {
+      "ref": "6.59.64",
+      "dice": 0.567,
+      "itihasa": "vol-iii/ch71#55"
+    },
+    {
+      "ref": "6.59.67",
+      "dice": 0.617,
+      "itihasa": "vol-iii/ch71#58"
+    },
+    {
+      "ref": "6.59.87",
+      "dice": 0.513,
+      "itihasa": "vol-iii/ch71#76"
+    },
+    {
+      "ref": "6.60.12",
+      "dice": 0.574,
+      "itihasa": "vol-iii/ch73#12"
+    },
+    {
+      "ref": "6.60.21",
+      "dice": 0.582,
+      "itihasa": "vol-iii/ch73#17"
+    },
+    {
+      "ref": "6.61.11",
+      "dice": 0.589,
+      "itihasa": "vol-iii/ch74#9"
+    },
+    {
+      "ref": "6.61.51",
+      "dice": 0.56,
+      "itihasa": "vol-iii/ch74#47"
+    },
+    {
+      "ref": "6.61.54",
+      "dice": 0.563,
+      "itihasa": "vol-iii/ch74#50"
+    },
+    {
+      "ref": "6.61.59",
+      "dice": 0.527,
+      "itihasa": "vol-iii/ch74#54"
+    },
+    {
+      "ref": "6.61.63",
+      "dice": 0.568,
+      "itihasa": "vol-iii/ch74#57"
+    },
+    {
+      "ref": "6.61.67",
+      "dice": 0.566,
+      "itihasa": "vol-iii/ch74#61"
+    },
+    {
+      "ref": "6.62.7",
+      "dice": 0.588,
+      "itihasa": "vol-iii/ch75#7"
+    },
+    {
+      "ref": "6.62.43",
+      "dice": 0.505,
+      "itihasa": "vol-iii/ch75#45"
+    },
+    {
+      "ref": "6.62.44",
+      "dice": 0.542,
+      "itihasa": "vol-iii/ch75#46"
+    },
+    {
+      "ref": "6.62.46",
+      "dice": 0.549,
+      "itihasa": "vol-iii/ch75#47"
+    },
+    {
+      "ref": "6.63.50",
+      "dice": 0.512,
+      "itihasa": "vol-iii/ch76#71"
+    },
+    {
+      "ref": "6.65.14",
+      "dice": 0.609,
+      "itihasa": "vol-iii/ch78#12"
+    },
+    {
+      "ref": "6.66.20",
+      "dice": 0.547,
+      "itihasa": "vol-iii/ch79#19"
+    },
+    {
+      "ref": "6.66.29",
+      "dice": 0.605,
+      "itihasa": "vol-iii/ch79#28"
+    },
+    {
+      "ref": "6.67.1",
+      "dice": 0.596,
+      "itihasa": "vol-iii/ch80#2"
+    },
+    {
+      "ref": "6.67.39",
+      "dice": 0.606,
+      "itihasa": "vol-iii/ch80#39"
+    },
+    {
+      "ref": "6.68.11",
+      "dice": 0.536,
+      "itihasa": "vol-iii/ch81#11"
+    },
+    {
+      "ref": "6.69.12",
+      "dice": 0.525,
+      "itihasa": "vol-iii/ch82#12"
+    },
+    {
+      "ref": "6.69.13",
+      "dice": 0.554,
+      "itihasa": "vol-iii/ch82#13"
+    },
+    {
+      "ref": "6.69.15",
+      "dice": 0.527,
+      "itihasa": "vol-iii/ch82#16"
+    },
+    {
+      "ref": "6.70.18",
+      "dice": 0.608,
+      "itihasa": "vol-iii/ch83#17"
+    },
+    {
+      "ref": "6.70.19",
+      "dice": 0.55,
+      "itihasa": "vol-iii/ch83#18"
+    },
+    {
+      "ref": "6.71.13",
+      "dice": 0.564,
+      "itihasa": "vol-iii/ch84#13"
+    },
+    {
+      "ref": "6.71.14",
+      "dice": 0.542,
+      "itihasa": "vol-iii/ch84#14"
+    },
+    {
+      "ref": "6.76.8",
+      "dice": 0.596,
+      "itihasa": "vol-iii/ch88#36"
+    },
+    {
+      "ref": "6.76.9",
+      "dice": 0.592,
+      "itihasa": "vol-iii/ch88#37"
+    },
+    {
+      "ref": "6.77.15",
+      "dice": 0.579,
+      "itihasa": "vol-iii/ch89#13"
+    },
+    {
+      "ref": "6.77.28",
+      "dice": 0.605,
+      "itihasa": "vol-iii/ch89#27"
+    },
+    {
+      "ref": "6.77.30",
+      "dice": 0.533,
+      "itihasa": "vol-iii/ch89#29"
+    },
+    {
+      "ref": "6.79.7",
+      "dice": 0.527,
+      "itihasa": "vol-iii/ch91#11"
+    },
+    {
+      "ref": "6.80.16",
+      "dice": 0.604,
+      "itihasa": "vol-iii/ch92#16"
+    },
+    {
+      "ref": "6.80.50",
+      "dice": 0.591,
+      "itihasa": "vol-iii/ch92#51"
+    },
+    {
+      "ref": "6.81.29",
+      "dice": 0.524,
+      "itihasa": "vol-iii/ch93#27"
+    },
+    {
+      "ref": "6.81.34",
+      "dice": 0.577,
+      "itihasa": "vol-iii/ch93#31"
+    },
+    {
+      "ref": "6.83.27",
+      "dice": 0.544,
+      "itihasa": "vol-iii/ch95#28"
+    },
+    {
+      "ref": "6.84.29",
+      "dice": 0.582,
+      "itihasa": "vol-iii/ch96#27"
+    },
+    {
+      "ref": "6.85.16",
+      "dice": 0.557,
+      "itihasa": "vol-iii/ch97#19"
+    },
+    {
+      "ref": "6.86.10",
+      "dice": 0.502,
+      "itihasa": "vol-iii/ch98#7"
+    },
+    {
+      "ref": "6.86.17",
+      "dice": 0.539,
+      "itihasa": "vol-iii/ch98#11"
+    },
+    {
+      "ref": "6.87.7",
+      "dice": 0.577,
+      "itihasa": "vol-iii/ch99#6"
+    },
+    {
+      "ref": "6.87.10",
+      "dice": 0.562,
+      "itihasa": "vol-iii/ch99#8"
+    },
+    {
+      "ref": "6.87.44",
+      "dice": 0.5,
+      "itihasa": "vol-iii/ch99#35"
+    },
+    {
+      "ref": "6.88.26",
+      "dice": 0.51,
+      "itihasa": "vol-iii/ch100#22"
+    },
+    {
+      "ref": "6.88.34",
+      "dice": 0.509,
+      "itihasa": "vol-iii/ch100#27"
+    },
+    {
+      "ref": "6.88.48",
+      "dice": 0.561,
+      "itihasa": "vol-iii/ch100#41"
+    },
+    {
+      "ref": "6.89.1",
+      "dice": 0.618,
+      "itihasa": "vol-iii/ch101#1"
+    },
+    {
+      "ref": "6.89.6",
+      "dice": 0.565,
+      "itihasa": "vol-iii/ch101#6"
+    },
+    {
+      "ref": "6.89.10",
+      "dice": 0.543,
+      "itihasa": "vol-iii/ch101#21"
+    },
+    {
+      "ref": "6.89.16",
+      "dice": 0.518,
+      "itihasa": "vol-iii/ch101#25"
+    },
+    {
+      "ref": "6.89.20",
+      "dice": 0.5,
+      "itihasa": "vol-iii/ch101#31"
+    },
+    {
+      "ref": "6.89.32",
+      "dice": 0.586,
+      "itihasa": "vol-iii/ch101#44"
+    },
+    {
+      "ref": "6.90.1",
+      "dice": 0.574,
+      "itihasa": "vol-iii/ch102#1"
+    },
+    {
+      "ref": "6.91.15",
+      "dice": 0.51,
+      "itihasa": "vol-iii/ch102#41"
+    },
+    {
+      "ref": "6.94.2",
+      "dice": 0.599,
+      "itihasa": "vol-iii/ch106#2"
+    },
+    {
+      "ref": "6.95.12",
+      "dice": 0.535,
+      "itihasa": "vol-iii/ch107#11"
+    },
+    {
+      "ref": "6.95.17",
+      "dice": 0.505,
+      "itihasa": "vol-iii/ch107#14"
+    },
+    {
+      "ref": "6.96.26",
+      "dice": 0.565,
+      "itihasa": "vol-iii/ch107#42"
+    },
+    {
+      "ref": "6.96.30",
+      "dice": 0.603,
+      "itihasa": "vol-iii/ch107#45"
+    },
+    {
+      "ref": "6.98.12",
+      "dice": 0.516,
+      "itihasa": "vol-iii/ch110#12"
+    },
+    {
+      "ref": "6.99.15",
+      "dice": 0.584,
+      "itihasa": "vol-iii/ch111#15"
+    },
+    {
+      "ref": "6.99.21",
+      "dice": 0.588,
+      "itihasa": "vol-iii/ch111#44"
+    },
+    {
+      "ref": "6.99.29",
+      "dice": 0.614,
+      "itihasa": "vol-iii/ch111#54"
+    },
+    {
+      "ref": "6.99.31",
+      "dice": 0.526,
+      "itihasa": "vol-iii/ch111#60"
+    },
+    {
+      "ref": "6.99.42",
+      "dice": 0.614,
+      "itihasa": "vol-iii/ch111#80"
+    },
+    {
+      "ref": "6.100.2",
+      "dice": 0.551,
+      "itihasa": "vol-iii/ch112#2"
+    },
+    {
+      "ref": "6.100.9",
+      "dice": 0.569,
+      "itihasa": "vol-iii/ch112#7"
+    },
+    {
+      "ref": "6.100.12",
+      "dice": 0.57,
+      "itihasa": "vol-iii/ch112#11"
+    },
+    {
+      "ref": "6.100.15",
+      "dice": 0.519,
+      "itihasa": "vol-iii/ch112#13"
+    },
+    {
+      "ref": "6.100.16",
+      "dice": 0.545,
+      "itihasa": "vol-iii/ch112#14"
+    },
+    {
+      "ref": "6.100.20",
+      "dice": 0.51,
+      "itihasa": "vol-iii/ch112#17"
+    },
+    {
+      "ref": "6.100.22",
+      "dice": 0.536,
+      "itihasa": "vol-iii/ch112#18"
+    },
+    {
+      "ref": "6.101.3",
+      "dice": 0.514,
+      "itihasa": "vol-iii/ch113#5"
+    },
+    {
+      "ref": "6.101.25",
+      "dice": 0.607,
+      "itihasa": "vol-iii/ch113#22"
+    },
+    {
+      "ref": "6.101.30",
+      "dice": 0.565,
+      "itihasa": "vol-iii/ch113#25"
+    },
+    {
+      "ref": "6.101.33",
+      "dice": 0.611,
+      "itihasa": "vol-iii/ch113#27"
+    },
+    {
+      "ref": "6.102.1",
+      "dice": 0.589,
+      "itihasa": "vol-iii/ch114#1"
+    },
+    {
+      "ref": "6.102.5",
+      "dice": 0.601,
+      "itihasa": "vol-iii/ch114#5"
+    },
+    {
+      "ref": "6.102.14",
+      "dice": 0.541,
+      "itihasa": "vol-iii/ch114#13"
+    },
+    {
+      "ref": "6.103.22",
+      "dice": 0.583,
+      "itihasa": "vol-iii/ch115#21"
+    },
+    {
+      "ref": "6.105.2",
+      "dice": 0.512,
+      "itihasa": "vol-iii/ch117#2"
+    },
+    {
+      "ref": "6.105.17",
+      "dice": 0.537,
+      "itihasa": "vol-iii/ch117#11"
+    },
+    {
+      "ref": "6.105.18",
+      "dice": 0.605,
+      "itihasa": "vol-iii/ch117#13"
+    },
+    {
+      "ref": "6.105.21",
+      "dice": 0.614,
+      "itihasa": "vol-iii/ch117#15"
+    },
+    {
+      "ref": "6.105.28",
+      "dice": 0.536,
+      "itihasa": "vol-iii/ch117#20"
+    },
+    {
+      "ref": "6.107.6",
+      "dice": 0.5,
+      "itihasa": "vol-iii/ch119#4"
+    },
+    {
+      "ref": "6.108.10",
+      "dice": 0.556,
+      "itihasa": "vol-iii/ch120#14"
+    },
+    {
+      "ref": "6.109.9",
+      "dice": 0.611,
+      "itihasa": "vol-iii/ch121#9"
+    },
+    {
+      "ref": "6.110.2",
+      "dice": 0.617,
+      "itihasa": "vol-iii/ch122#1"
+    },
+    {
+      "ref": "6.110.13",
+      "dice": 0.582,
+      "itihasa": "vol-iii/ch122#13"
+    },
+    {
+      "ref": "6.110.16",
+      "dice": 0.538,
+      "itihasa": "vol-iii/ch122#16"
+    },
+    {
+      "ref": "6.111.1",
+      "dice": 0.619,
+      "itihasa": "vol-iii/ch123#1"
+    },
+    {
+      "ref": "6.111.5",
+      "dice": 0.566,
+      "itihasa": "vol-iii/ch123#6"
+    },
+    {
+      "ref": "6.111.24",
+      "dice": 0.58,
+      "itihasa": "vol-iii/ch123#38"
+    },
+    {
+      "ref": "6.111.26",
+      "dice": 0.611,
+      "itihasa": "vol-iii/ch123#39"
+    },
+    {
+      "ref": "6.111.27",
+      "dice": 0.532,
+      "itihasa": "vol-iii/ch123#39"
+    },
+    {
+      "ref": "6.113.1",
+      "dice": 0.547,
+      "itihasa": "vol-iii/ch125#2"
+    },
+    {
+      "ref": "6.113.2",
+      "dice": 0.538,
+      "itihasa": "vol-iii/ch125#1"
+    },
+    {
+      "ref": "6.113.40",
+      "dice": 0.523,
+      "itihasa": "vol-iii/ch125#27"
+    },
+    {
+      "ref": "6.114.10",
+      "dice": 0.613,
+      "itihasa": "vol-iii/ch126#6"
+    },
+    {
+      "ref": "6.114.26",
+      "dice": 0.549,
+      "itihasa": "vol-iii/ch126#23"
+    },
+    {
+      "ref": "6.114.27",
+      "dice": 0.59,
+      "itihasa": "vol-iii/ch126#24"
+    },
+    {
+      "ref": "6.114.43",
+      "dice": 0.594,
+      "itihasa": "vol-iii/ch126#38"
+    },
+    {
+      "ref": "6.115.3",
+      "dice": 0.551,
+      "itihasa": "vol-iii/ch127#3"
+    },
+    {
+      "ref": "6.115.5",
+      "dice": 0.563,
+      "itihasa": "vol-iii/ch127#4"
+    },
+    {
+      "ref": "6.115.18",
+      "dice": 0.535,
+      "itihasa": "vol-iii/ch127#12"
+    },
+    {
+      "ref": "6.115.19",
+      "dice": 0.608,
+      "itihasa": "vol-iii/ch127#13"
+    },
+    {
+      "ref": "6.115.23",
+      "dice": 0.567,
+      "itihasa": "vol-iii/ch127#15"
+    },
+    {
+      "ref": "6.115.24",
+      "dice": 0.51,
+      "itihasa": "vol-iii/ch127#16"
+    },
+    {
+      "ref": "6.116.40",
+      "dice": 0.618,
+      "itihasa": "vol-iii/ch128#40"
+    },
+    {
+      "ref": "6.116.72",
+      "dice": 0.557,
+      "itihasa": "vol-iii/ch128#67"
+    },
+    {
+      "ref": "6.116.76",
+      "dice": 0.607,
+      "itihasa": "vol-iii/ch128#69"
+    },
+    {
+      "ref": "7.1.3",
+      "dice": 0.563,
+      "itihasa": "vol-iv/ch1#2"
+    },
+    {
+      "ref": "7.1.12",
+      "dice": 0.543,
+      "itihasa": "vol-iv/ch1#10"
+    },
+    {
+      "ref": "7.2.12",
+      "dice": 0.552,
+      "itihasa": "vol-iv/ch2#11"
+    },
+    {
+      "ref": "7.2.13",
+      "dice": 0.578,
+      "itihasa": "vol-iv/ch2#12"
+    },
+    {
+      "ref": "7.2.28",
+      "dice": 0.526,
+      "itihasa": "vol-iv/ch2#28"
+    },
+    {
+      "ref": "7.3.10",
+      "dice": 0.52,
+      "itihasa": "vol-iv/ch3#6"
+    },
+    {
+      "ref": "7.3.17",
+      "dice": 0.542,
+      "itihasa": "vol-iv/ch3#12"
+    },
+    {
+      "ref": "7.3.25",
+      "dice": 0.559,
+      "itihasa": "vol-iv/ch3#17"
+    },
+    {
+      "ref": "7.4.29",
+      "dice": 0.57,
+      "itihasa": "vol-iv/ch4#27"
+    },
+    {
+      "ref": "7.5.1",
+      "dice": 0.555,
+      "itihasa": "vol-iv/ch5#1"
+    },
+    {
+      "ref": "7.5.21",
+      "dice": 0.583,
+      "itihasa": "vol-iv/ch5#16"
+    },
+    {
+      "ref": "7.5.28",
+      "dice": 0.58,
+      "itihasa": "vol-iv/ch5#20"
+    },
+    {
+      "ref": "7.5.36",
+      "dice": 0.501,
+      "itihasa": "vol-iv/ch5#25"
+    },
+    {
+      "ref": "7.6.5",
+      "dice": 0.597,
+      "itihasa": "vol-iv/ch6#3"
+    },
+    {
+      "ref": "7.6.16",
+      "dice": 0.569,
+      "itihasa": "vol-iv/ch6#14"
+    },
+    {
+      "ref": "7.6.23",
+      "dice": 0.611,
+      "itihasa": "vol-iv/ch6#19"
+    },
+    {
+      "ref": "7.6.39",
+      "dice": 0.5,
+      "itihasa": "vol-iv/ch6#35"
+    },
+    {
+      "ref": "7.6.47",
+      "dice": 0.504,
+      "itihasa": "vol-iv/ch6#42"
+    },
+    {
+      "ref": "7.6.48",
+      "dice": 0.547,
+      "itihasa": "vol-iv/ch6#44"
+    },
+    {
+      "ref": "7.6.53",
+      "dice": 0.569,
+      "itihasa": "vol-iv/ch6#50"
+    },
+    {
+      "ref": "7.7.6",
+      "dice": 0.6,
+      "itihasa": "vol-iv/ch7#4"
+    },
+    {
+      "ref": "7.7.15",
+      "dice": 0.504,
+      "itihasa": "vol-iv/ch7#13"
+    },
+    {
+      "ref": "7.7.18",
+      "dice": 0.576,
+      "itihasa": "vol-iv/ch7#16"
+    },
+    {
+      "ref": "7.7.37",
+      "dice": 0.599,
+      "itihasa": "vol-iv/ch7#36"
+    },
+    {
+      "ref": "7.9.3",
+      "dice": 0.524,
+      "itihasa": "vol-iv/ch9#3"
+    },
+    {
+      "ref": "7.9.4",
+      "dice": 0.577,
+      "itihasa": "vol-iv/ch9#5"
+    },
+    {
+      "ref": "7.9.5",
+      "dice": 0.61,
+      "itihasa": "vol-iv/ch9#4"
+    },
+    {
+      "ref": "7.9.24",
+      "dice": 0.596,
+      "itihasa": "vol-iv/ch9#21"
+    },
+    {
+      "ref": "7.10.17",
+      "dice": 0.613,
+      "itihasa": "vol-iv/ch10#18"
+    },
+    {
+      "ref": "7.10.21",
+      "dice": 0.598,
+      "itihasa": "vol-iv/ch10#21"
+    },
+    {
+      "ref": "7.10.27",
+      "dice": 0.579,
+      "itihasa": "vol-iv/ch10#27"
+    },
+    {
+      "ref": "7.10.30",
+      "dice": 0.618,
+      "itihasa": "vol-iv/ch10#28"
+    },
+    {
+      "ref": "7.11.10",
+      "dice": 0.582,
+      "itihasa": "vol-iv/ch11#9"
+    },
+    {
+      "ref": "7.11.36",
+      "dice": 0.61,
+      "itihasa": "vol-iv/ch11#34"
+    },
+    {
+      "ref": "7.11.38",
+      "dice": 0.586,
+      "itihasa": "vol-iv/ch11#37"
+    },
+    {
+      "ref": "7.12.4",
+      "dice": 0.531,
+      "itihasa": "vol-iv/ch12#3"
+    },
+    {
+      "ref": "7.12.9",
+      "dice": 0.617,
+      "itihasa": "vol-iv/ch12#5"
+    },
+    {
+      "ref": "7.12.15",
+      "dice": 0.611,
+      "itihasa": "vol-iv/ch12#10"
+    },
+    {
+      "ref": "7.13.18",
+      "dice": 0.505,
+      "itihasa": "vol-iv/ch13#12"
+    },
+    {
+      "ref": "7.13.22",
+      "dice": 0.54,
+      "itihasa": "vol-iv/ch13#15"
+    },
+    {
+      "ref": "7.13.30",
+      "dice": 0.515,
+      "itihasa": "vol-iv/ch13#22"
+    },
+    {
+      "ref": "7.13.36",
+      "dice": 0.576,
+      "itihasa": "vol-iv/ch13#27"
+    },
+    {
+      "ref": "7.14.2",
+      "dice": 0.616,
+      "itihasa": "vol-iv/ch14#1"
+    },
+    {
+      "ref": "7.14.4",
+      "dice": 0.555,
+      "itihasa": "vol-iv/ch14#3"
+    },
+    {
+      "ref": "7.14.6",
+      "dice": 0.522,
+      "itihasa": "vol-iv/ch14#5"
+    },
+    {
+      "ref": "7.14.19",
+      "dice": 0.579,
+      "itihasa": "vol-iv/ch14#17"
+    },
+    {
+      "ref": "7.15.2",
+      "dice": 0.583,
+      "itihasa": "vol-iv/ch15#3"
+    },
+    {
+      "ref": "7.15.10",
+      "dice": 0.54,
+      "itihasa": "vol-iv/ch15#14"
+    },
+    {
+      "ref": "7.15.20",
+      "dice": 0.577,
+      "itihasa": "vol-iv/ch15#24"
+    },
+    {
+      "ref": "7.15.24",
+      "dice": 0.535,
+      "itihasa": "vol-iv/ch15#28"
+    },
+    {
+      "ref": "7.16.7",
+      "dice": 0.575,
+      "itihasa": "vol-iv/ch16#4"
+    },
+    {
+      "ref": "7.16.9",
+      "dice": 0.619,
+      "itihasa": "vol-iv/ch16#5"
+    },
+    {
+      "ref": "7.16.10",
+      "dice": 0.517,
+      "itihasa": "vol-iv/ch16#6"
+    },
+    {
+      "ref": "7.16.27",
+      "dice": 0.6,
+      "itihasa": "vol-iv/ch16#26"
+    },
+    {
+      "ref": "7.16.31",
+      "dice": 0.577,
+      "itihasa": "vol-iv/ch16#35"
+    },
+    {
+      "ref": "7.17.12",
+      "dice": 0.573,
+      "itihasa": "vol-iv/ch17#11"
+    },
+    {
+      "ref": "7.17.22",
+      "dice": 0.61,
+      "itihasa": "vol-iv/ch17#22"
+    },
+    {
+      "ref": "7.17.23",
+      "dice": 0.534,
+      "itihasa": "vol-iv/ch17#23"
+    },
+    {
+      "ref": "7.18.16",
+      "dice": 0.547,
+      "itihasa": "vol-iv/ch18#13"
+    },
+    {
+      "ref": "7.18.21",
+      "dice": 0.516,
+      "itihasa": "vol-iv/ch18#16"
+    },
+    {
+      "ref": "7.19.9",
+      "dice": 0.541,
+      "itihasa": "vol-iv/ch19#6"
+    },
+    {
+      "ref": "7.19.11",
+      "dice": 0.517,
+      "itihasa": "vol-iv/ch19#8"
+    },
+    {
+      "ref": "7.20.23",
+      "dice": 0.594,
+      "itihasa": "vol-iv/ch20#25"
+    },
+    {
+      "ref": "7.20.25",
+      "dice": 0.544,
+      "itihasa": "vol-iv/ch20#27"
+    },
+    {
+      "ref": "7.21.12",
+      "dice": 0.581,
+      "itihasa": "vol-iv/ch21#12"
+    },
+    {
+      "ref": "7.21.16",
+      "dice": 0.5,
+      "itihasa": "vol-iv/ch21#17"
+    },
+    {
+      "ref": "7.21.17",
+      "dice": 0.566,
+      "itihasa": "vol-iv/ch21#18"
+    },
+    {
+      "ref": "7.21.23",
+      "dice": 0.614,
+      "itihasa": "vol-iv/ch21#24"
+    },
+    {
+      "ref": "7.22.6",
+      "dice": 0.513,
+      "itihasa": "vol-iv/ch22#6"
+    },
+    {
+      "ref": "7.22.7",
+      "dice": 0.548,
+      "itihasa": "vol-iv/ch22#7"
+    },
+    {
+      "ref": "7.22.19",
+      "dice": 0.602,
+      "itihasa": "vol-iv/ch22#18"
+    },
+    {
+      "ref": "7.22.28",
+      "dice": 0.509,
+      "itihasa": "vol-iv/ch22#24"
+    },
+    {
+      "ref": "7.22.29",
+      "dice": 0.552,
+      "itihasa": "vol-iv/ch22#25"
+    },
+    {
+      "ref": "7.22.30",
+      "dice": 0.505,
+      "itihasa": "vol-iv/ch22#26"
+    },
+    {
+      "ref": "7.22.38",
+      "dice": 0.571,
+      "itihasa": "vol-iv/ch22#35"
+    },
+    {
+      "ref": "7.23.17",
+      "dice": 0.55,
+      "itihasa": "vol-iv/ch23#15"
+    },
+    {
+      "ref": "7.23.18",
+      "dice": 0.615,
+      "itihasa": "vol-iv/ch23#16"
+    },
+    {
+      "ref": "7.24.5",
+      "dice": 0.534,
+      "itihasa": "vol-iv/ch24#4"
+    },
+    {
+      "ref": "7.24.16",
+      "dice": 0.619,
+      "itihasa": "vol-iv/ch24#12"
+    },
+    {
+      "ref": "7.24.28",
+      "dice": 0.577,
+      "itihasa": "vol-iv/ch24#21"
+    },
+    {
+      "ref": "7.24.29",
+      "dice": 0.557,
+      "itihasa": "vol-iv/ch24#22"
+    },
+    {
+      "ref": "7.25.5",
+      "dice": 0.593,
+      "itihasa": "vol-iv/ch25#5"
+    },
+    {
+      "ref": "7.25.9",
+      "dice": 0.506,
+      "itihasa": "vol-iv/ch25#7"
+    },
+    {
+      "ref": "7.25.16",
+      "dice": 0.59,
+      "itihasa": "vol-iv/ch25#14"
+    },
+    {
+      "ref": "7.25.23",
+      "dice": 0.521,
+      "itihasa": "vol-iv/ch25#19"
+    },
+    {
+      "ref": "7.25.26",
+      "dice": 0.536,
+      "itihasa": "vol-iv/ch25#20"
+    },
+    {
+      "ref": "7.25.30",
+      "dice": 0.577,
+      "itihasa": "vol-iv/ch25#23"
+    },
+    {
+      "ref": "7.25.33",
+      "dice": 0.504,
+      "itihasa": "vol-iv/ch25#24"
+    },
+    {
+      "ref": "7.25.41",
+      "dice": 0.544,
+      "itihasa": "vol-iv/ch25#29"
+    },
+    {
+      "ref": "7.25.47",
+      "dice": 0.617,
+      "itihasa": "vol-iv/ch25#34"
+    },
+    {
+      "ref": "7.26.22",
+      "dice": 0.509,
+      "itihasa": "vol-iv/ch26#25"
+    },
+    {
+      "ref": "7.26.32",
+      "dice": 0.531,
+      "itihasa": "vol-iv/ch26#32"
+    },
+    {
+      "ref": "7.27.1",
+      "dice": 0.607,
+      "itihasa": "vol-iv/ch27#1"
+    },
+    {
+      "ref": "7.27.4",
+      "dice": 0.588,
+      "itihasa": "vol-iv/ch27#3"
+    },
+    {
+      "ref": "7.27.7",
+      "dice": 0.51,
+      "itihasa": "vol-iv/ch27#6"
+    },
+    {
+      "ref": "7.27.11",
+      "dice": 0.534,
+      "itihasa": "vol-iv/ch27#8"
+    },
+    {
+      "ref": "7.27.13",
+      "dice": 0.596,
+      "itihasa": "vol-iv/ch27#11"
+    },
+    {
+      "ref": "7.27.17",
+      "dice": 0.579,
+      "itihasa": "vol-iv/ch27#14"
+    },
+    {
+      "ref": "7.27.27",
+      "dice": 0.508,
+      "itihasa": "vol-iv/ch27#25"
+    },
+    {
+      "ref": "7.27.31",
+      "dice": 0.553,
+      "itihasa": "vol-iv/ch27#30"
+    },
+    {
+      "ref": "7.27.35",
+      "dice": 0.571,
+      "itihasa": "vol-iv/ch27#32"
+    },
+    {
+      "ref": "7.27.41",
+      "dice": 0.596,
+      "itihasa": "vol-iv/ch27#37"
+    },
+    {
+      "ref": "7.27.42",
+      "dice": 0.613,
+      "itihasa": "vol-iv/ch27#38"
+    },
+    {
+      "ref": "7.28.1",
+      "dice": 0.619,
+      "itihasa": "vol-iv/ch28#1"
+    },
+    {
+      "ref": "7.28.11",
+      "dice": 0.512,
+      "itihasa": "vol-iv/ch28#10"
+    },
+    {
+      "ref": "7.28.13",
+      "dice": 0.568,
+      "itihasa": "vol-iv/ch28#11"
+    },
+    {
+      "ref": "7.28.19",
+      "dice": 0.61,
+      "itihasa": "vol-iv/ch28#18"
+    },
+    {
+      "ref": "7.28.33",
+      "dice": 0.526,
+      "itihasa": "vol-iv/ch28#31"
+    },
+    {
+      "ref": "7.29.30",
+      "dice": 0.587,
+      "itihasa": "vol-iv/ch29#29"
+    },
+    {
+      "ref": "7.29.39",
+      "dice": 0.619,
+      "itihasa": "vol-iv/ch29#38"
+    },
+    {
+      "ref": "7.30.19",
+      "dice": 0.509,
+      "itihasa": "vol-iv/ch30#19"
+    },
+    {
+      "ref": "7.30.37",
+      "dice": 0.531,
+      "itihasa": "vol-iv/ch30#37"
+    },
+    {
+      "ref": "7.30.39",
+      "dice": 0.569,
+      "itihasa": "vol-iv/ch30#38"
+    },
+    {
+      "ref": "7.31.2",
+      "dice": 0.593,
+      "itihasa": "vol-iv/ch31#2"
+    },
+    {
+      "ref": "7.31.9",
+      "dice": 0.545,
+      "itihasa": "vol-iv/ch31#7"
+    },
+    {
+      "ref": "7.31.31",
+      "dice": 0.612,
+      "itihasa": "vol-iv/ch31#19"
+    },
+    {
+      "ref": "7.32.50",
+      "dice": 0.502,
+      "itihasa": "vol-iv/ch32#44"
+    },
+    {
+      "ref": "7.32.64",
+      "dice": 0.542,
+      "itihasa": "vol-iv/ch32#54"
+    },
+    {
+      "ref": "7.34.11",
+      "dice": 0.61,
+      "itihasa": "vol-iv/ch34#11"
+    },
+    {
+      "ref": "7.34.25",
+      "dice": 0.607,
+      "itihasa": "vol-iv/ch34#24"
+    },
+    {
+      "ref": "7.34.29",
+      "dice": 0.613,
+      "itihasa": "vol-iv/ch34#28"
+    },
+    {
+      "ref": "7.35.38",
+      "dice": 0.512,
+      "itihasa": "vol-iv/ch35#36"
+    },
+    {
+      "ref": "7.35.54",
+      "dice": 0.578,
+      "itihasa": "vol-iv/ch35#51"
+    },
+    {
+      "ref": "7.35.56",
+      "dice": 0.514,
+      "itihasa": "vol-iv/ch35#52"
+    },
+    {
+      "ref": "7.35.65",
+      "dice": 0.609,
+      "itihasa": "vol-iv/ch35#60"
+    },
+    {
+      "ref": "7.36.32",
+      "dice": 0.533,
+      "itihasa": "vol-iv/ch36#32"
+    },
+    {
+      "ref": "7.36.33",
+      "dice": 0.575,
+      "itihasa": "vol-iv/ch36#33"
+    },
+    {
+      "ref": "7.36.41",
+      "dice": 0.613,
+      "itihasa": "vol-iv/ch36#42"
+    },
+    {
+      "ref": "7.36.46",
+      "dice": 0.588,
+      "itihasa": "vol-iv/ch37#59"
+    },
+    {
+      "ref": "7.37.6",
+      "dice": 0.567,
+      "itihasa": "vol-iv/ch38#18"
+    },
+    {
+      "ref": "7.37.10",
+      "dice": 0.529,
+      "itihasa": "vol-iv/ch38#19"
+    },
+    {
+      "ref": "7.38.9",
+      "dice": 0.537,
+      "itihasa": "vol-iv/ch39#7"
+    },
+    {
+      "ref": "7.38.13",
+      "dice": 0.566,
+      "itihasa": "vol-iv/ch39#9"
+    },
+    {
+      "ref": "7.38.14",
+      "dice": 0.587,
+      "itihasa": "vol-iv/ch39#14"
+    },
+    {
+      "ref": "7.39.14",
+      "dice": 0.502,
+      "itihasa": "vol-iv/ch40#8"
+    },
+    {
+      "ref": "7.40.9",
+      "dice": 0.566,
+      "itihasa": "vol-iv/ch41#8"
+    },
+    {
+      "ref": "7.40.11",
+      "dice": 0.577,
+      "itihasa": "vol-iv/ch41#13"
+    },
+    {
+      "ref": "7.40.14",
+      "dice": 0.512,
+      "itihasa": "vol-iv/ch41#15"
+    },
+    {
+      "ref": "7.41.15",
+      "dice": 0.525,
+      "itihasa": "vol-iv/ch42#9"
+    },
+    {
+      "ref": "7.41.22",
+      "dice": 0.505,
+      "itihasa": "vol-iv/ch42#17"
+    },
+    {
+      "ref": "7.42.5",
+      "dice": 0.505,
+      "itihasa": "vol-iv/ch43#3"
+    },
+    {
+      "ref": "7.44.5",
+      "dice": 0.609,
+      "itihasa": "vol-iv/ch45#4"
+    },
+    {
+      "ref": "7.44.20",
+      "dice": 0.536,
+      "itihasa": "vol-iv/ch45#18"
+    },
+    {
+      "ref": "7.45.12",
+      "dice": 0.519,
+      "itihasa": "vol-iv/ch46#10"
+    },
+    {
+      "ref": "7.45.13",
+      "dice": 0.55,
+      "itihasa": "vol-iv/ch46#11"
+    },
+    {
+      "ref": "7.45.15",
+      "dice": 0.544,
+      "itihasa": "vol-iv/ch46#12"
+    },
+    {
+      "ref": "7.45.17",
+      "dice": 0.568,
+      "itihasa": "vol-iv/ch46#14"
+    },
+    {
+      "ref": "7.45.28",
+      "dice": 0.573,
+      "itihasa": "vol-iv/ch46#24"
+    },
+    {
+      "ref": "7.46.13",
+      "dice": 0.569,
+      "itihasa": "vol-iv/ch47#9"
+    },
+    {
+      "ref": "7.46.16",
+      "dice": 0.505,
+      "itihasa": "vol-iv/ch47#10"
+    },
+    {
+      "ref": "7.47.11",
+      "dice": 0.594,
+      "itihasa": "vol-iv/ch48#13"
+    },
+    {
+      "ref": "7.47.14",
+      "dice": 0.582,
+      "itihasa": "vol-iv/ch48#20"
+    },
+    {
+      "ref": "7.48.4",
+      "dice": 0.525,
+      "itihasa": "vol-iv/ch49#3"
+    },
+    {
+      "ref": "7.48.16",
+      "dice": 0.529,
+      "itihasa": "vol-iv/ch49#11"
+    },
+    {
+      "ref": "7.50.11",
+      "dice": 0.544,
+      "itihasa": "vol-iv/ch51#17"
+    },
+    {
+      "ref": "7.51.11",
+      "dice": 0.612,
+      "itihasa": "vol-iv/ch52#10"
+    },
+    {
+      "ref": "7.52.2",
+      "dice": 0.558,
+      "itihasa": "vol-iv/ch60#3"
+    },
+    {
+      "ref": "7.54.11",
+      "dice": 0.5,
+      "itihasa": "vol-iv/ch62#10"
+    },
+    {
+      "ref": "7.54.21",
+      "dice": 0.511,
+      "itihasa": "vol-iv/ch62#14"
+    },
+    {
+      "ref": "7.55.11",
+      "dice": 0.515,
+      "itihasa": "vol-iv/ch63#18"
+    },
+    {
+      "ref": "7.56.3",
+      "dice": 0.601,
+      "itihasa": "vol-iv/ch64#2"
+    },
+    {
+      "ref": "7.58.14",
+      "dice": 0.576,
+      "itihasa": "vol-iv/ch66#11"
+    },
+    {
+      "ref": "7.61.24",
+      "dice": 0.614,
+      "itihasa": "vol-iv/ch69#19"
+    },
+    {
+      "ref": "7.61.27",
+      "dice": 0.568,
+      "itihasa": "vol-iv/ch69#20"
+    },
+    {
+      "ref": "7.61.29",
+      "dice": 0.617,
+      "itihasa": "vol-iv/ch69#21"
+    },
+    {
+      "ref": "7.62.12",
+      "dice": 0.51,
+      "itihasa": "vol-iv/ch70#11"
+    },
+    {
+      "ref": "7.63.3",
+      "dice": 0.505,
+      "itihasa": "vol-iv/ch72#6"
+    },
+    {
+      "ref": "7.63.7",
+      "dice": 0.6,
+      "itihasa": "vol-iv/ch72#9"
+    },
+    {
+      "ref": "7.64.3",
+      "dice": 0.516,
+      "itihasa": "vol-iv/ch73#3"
+    },
+    {
+      "ref": "7.64.10",
+      "dice": 0.522,
+      "itihasa": "vol-iv/ch73#9"
+    },
+    {
+      "ref": "7.66.3",
+      "dice": 0.514,
+      "itihasa": "vol-iv/ch75#2"
+    },
+    {
+      "ref": "7.66.7",
+      "dice": 0.5,
+      "itihasa": "vol-iv/ch75#3"
+    },
+    {
+      "ref": "7.66.15",
+      "dice": 0.537,
+      "itihasa": "vol-iv/ch75#9"
+    },
+    {
+      "ref": "7.66.16",
+      "dice": 0.522,
+      "itihasa": "vol-iv/ch75#10"
+    },
+    {
+      "ref": "7.67.13",
+      "dice": 0.523,
+      "itihasa": "vol-iv/ch76#26"
+    },
+    {
+      "ref": "7.67.14",
+      "dice": 0.509,
+      "itihasa": "vol-iv/ch76#31"
+    },
+    {
+      "ref": "7.68.11",
+      "dice": 0.528,
+      "itihasa": "vol-iv/ch77#5"
+    },
+    {
+      "ref": "7.68.13",
+      "dice": 0.613,
+      "itihasa": "vol-iv/ch77#8"
+    },
+    {
+      "ref": "7.71.11",
+      "dice": 0.564,
+      "itihasa": "vol-iv/ch80#9"
+    },
+    {
+      "ref": "7.71.16",
+      "dice": 0.568,
+      "itihasa": "vol-iv/ch80#16"
+    },
+    {
+      "ref": "7.72.17",
+      "dice": 0.609,
+      "itihasa": "vol-iv/ch81#17"
+    },
+    {
+      "ref": "7.72.19",
+      "dice": 0.6,
+      "itihasa": "vol-iv/ch81#19"
+    },
+    {
+      "ref": "7.73.6",
+      "dice": 0.619,
+      "itihasa": "vol-iv/ch82#4"
+    },
+    {
+      "ref": "7.74.11",
+      "dice": 0.509,
+      "itihasa": "vol-iv/ch83#9"
+    },
+    {
+      "ref": "7.77.11",
+      "dice": 0.524,
+      "itihasa": "vol-iv/ch86#6"
+    },
+    {
+      "ref": "7.77.12",
+      "dice": 0.617,
+      "itihasa": "vol-iv/ch86#7"
+    },
+    {
+      "ref": "7.78.13",
+      "dice": 0.5,
+      "itihasa": "vol-iv/ch87#11"
+    },
+    {
+      "ref": "7.78.21",
+      "dice": 0.614,
+      "itihasa": "vol-iv/ch87#16"
+    },
+    {
+      "ref": "7.80.24",
+      "dice": 0.613,
+      "itihasa": "vol-iv/ch89#21"
+    },
+    {
+      "ref": "7.81.6",
+      "dice": 0.507,
+      "itihasa": "vol-iv/ch90#4"
+    },
+    {
+      "ref": "7.81.15",
+      "dice": 0.604,
+      "itihasa": "vol-iv/ch90#12"
+    },
+    {
+      "ref": "7.82.13",
+      "dice": 0.554,
+      "itihasa": "vol-iv/ch91#12"
+    },
+    {
+      "ref": "7.82.16",
+      "dice": 0.502,
+      "itihasa": "vol-iv/ch91#14"
+    },
+    {
+      "ref": "7.82.17",
+      "dice": 0.5,
+      "itihasa": "vol-iv/ch91#15"
+    },
+    {
+      "ref": "7.83.3",
+      "dice": 0.509,
+      "itihasa": "vol-iv/ch92#1"
+    },
+    {
+      "ref": "7.83.6",
+      "dice": 0.596,
+      "itihasa": "vol-iv/ch91#17"
+    },
+    {
+      "ref": "7.83.11",
+      "dice": 0.502,
+      "itihasa": "vol-iv/ch92#7"
+    },
+    {
+      "ref": "7.84.4",
+      "dice": 0.522,
+      "itihasa": "vol-iv/ch93#4"
+    },
+    {
+      "ref": "7.85.8",
+      "dice": 0.5,
+      "itihasa": "vol-iv/ch94#5"
+    },
+    {
+      "ref": "7.86.2",
+      "dice": 0.511,
+      "itihasa": "vol-iv/ch95#2"
+    },
+    {
+      "ref": "7.87.8",
+      "dice": 0.601,
+      "itihasa": "vol-iv/ch96#2"
+    },
+    {
+      "ref": "7.87.11",
+      "dice": 0.601,
+      "itihasa": "vol-iv/ch96#4"
+    },
+    {
+      "ref": "7.87.13",
+      "dice": 0.613,
+      "itihasa": "vol-iv/ch96#5"
+    },
+    {
+      "ref": "7.90.1",
+      "dice": 0.509,
+      "itihasa": "vol-iv/ch100#1"
+    },
+    {
+      "ref": "7.90.5",
+      "dice": 0.534,
+      "itihasa": "vol-iv/ch100#2"
+    },
+    {
+      "ref": "7.90.7",
+      "dice": 0.589,
+      "itihasa": "vol-iv/ch100#3"
+    },
+    {
+      "ref": "7.90.22",
+      "dice": 0.554,
+      "itihasa": "vol-iv/ch100#18"
+    },
+    {
+      "ref": "7.91.8",
+      "dice": 0.544,
+      "itihasa": "vol-iv/ch101#9"
+    },
+    {
+      "ref": "7.91.13",
+      "dice": 0.58,
+      "itihasa": "vol-iv/ch101#13"
+    },
+    {
+      "ref": "7.95.18",
+      "dice": 0.537,
+      "itihasa": "vol-iv/ch105#14"
+    },
+    {
+      "ref": "7.98.5",
+      "dice": 0.597,
+      "itihasa": "vol-iv/ch108#4"
+    },
+    {
+      "ref": "7.98.6",
+      "dice": 0.557,
+      "itihasa": "vol-iv/ch108#5"
+    },
+    {
+      "ref": "7.98.8",
+      "dice": 0.535,
+      "itihasa": "vol-iv/ch108#6"
+    },
+    {
+      "ref": "7.98.10",
+      "dice": 0.533,
+      "itihasa": "vol-iv/ch108#7"
+    },
+    {
+      "ref": "7.99.6",
+      "dice": 0.503,
+      "itihasa": "vol-iv/ch109#6"
+    },
+    {
+      "ref": "7.99.10",
+      "dice": 0.579,
+      "itihasa": "vol-iv/ch109#9"
+    },
+    {
+      "ref": "7.99.14",
+      "dice": 0.545,
+      "itihasa": "vol-iv/ch109#12"
+    },
+    {
+      "ref": "7.100.4",
+      "dice": 0.585,
+      "itihasa": "vol-iv/ch110#5"
+    },
+    {
+      "ref": "7.100.25",
+      "dice": 0.517,
+      "itihasa": "vol-iv/ch110#21"
+    }
+  ],
+  "dropped_positional": [
+    {
+      "ref": "1.68.4",
+      "dice": 0.517,
+      "itihasa": "vol-i/ch7#4",
+      "expected_chapter": 69
+    },
+    {
+      "ref": "4.1.39",
+      "dice": 0.569,
+      "itihasa": "vol-ii/ch30#58",
+      "expected_chapter": 1
+    },
+    {
+      "ref": "4.37.24",
+      "dice": 0.529,
+      "itihasa": "vol-ii/ch11#66",
+      "expected_chapter": 38
+    },
+    {
+      "ref": "4.24.1",
+      "dice": 0.5,
+      "itihasa": "vol-ii/ch5#25",
+      "expected_chapter": 25
+    },
+    {
+      "ref": "5.66.8",
+      "dice": 0.606,
+      "itihasa": "vol-ii/ch56#6",
+      "expected_chapter": 68
+    },
+    {
+      "ref": "5.57.13",
+      "dice": 0.591,
+      "itihasa": "vol-ii/ch65#9",
+      "expected_chapter": 59
+    },
+    {
+      "ref": "5.65.24",
+      "dice": 0.587,
+      "itihasa": "vol-ii/ch38#40",
+      "expected_chapter": 67
+    },
+    {
+      "ref": "5.57.14",
+      "dice": 0.536,
+      "itihasa": "vol-ii/ch65#11",
+      "expected_chapter": 59
+    },
+    {
+      "ref": "5.41.6",
+      "dice": 0.5,
+      "itihasa": "vol-ii/ch59#16",
+      "expected_chapter": 43
+    },
+    {
+      "ref": "6.53.36",
+      "dice": 0.593,
+      "itihasa": "vol-iii/ch95#13",
+      "expected_chapter": 65
+    },
+    {
+      "ref": "6.77.9",
+      "dice": 0.519,
+      "itihasa": "vol-iii/ch123#6",
+      "expected_chapter": 89
+    }
+  ],
+  "duplicate_english": 5
+}
