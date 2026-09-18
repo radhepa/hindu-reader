@@ -36,6 +36,7 @@ yarn-error.*
 # AI coding assistant config (local only, never shipped)
 .claude/
 CLAUDE.md
+AGENTS.md
 
 # typescript
 *.tsbuildinfo
